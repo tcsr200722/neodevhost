@@ -8,7 +8,7 @@
 #
 # Last update: 2020-10-24
 #
-# Number of blocked domains:  78620
+# Number of blocked domains:  78621
 #
 #=====================================
 0.0.0.0  0.nextyourcontent.com
@@ -46769,7 +46769,6 @@
 0.0.0.0  pc.da.mgtv.com
 0.0.0.0  pc.gutouwang.net
 0.0.0.0  pc.tunnel-vision.info
-0.0.0.0  pc.uf.ksosoft.com
 0.0.0.0  pc.videoclick.baidu.com
 0.0.0.0  pc1.da.mgtv.com
 0.0.0.0  pc1.io
@@ -47664,6 +47663,7 @@
 0.0.0.0  pixfuture.net
 0.0.0.0  pixiedust.buzzfeed.com
 0.0.0.0  piximedia.com
+0.0.0.0  pixiu.shangshufang.ksosoft.com
 0.0.0.0  pixiv.org
 0.0.0.0  pixnbeats.com
 0.0.0.0  pixon.ads-pixiv.net
@@ -64370,6 +64370,7 @@
 0.0.0.0  vartoken.com
 0.0.0.0  vasanthkumar.com
 0.0.0.0  vasapi.mangoads.vn
+0.0.0.0  vasapi.rdtuijian.com
 0.0.0.0  vasb.cn
 0.0.0.0  vaserviece.10jqka.com.cn
 0.0.0.0  vasgenerete.site
