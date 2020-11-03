@@ -13,13 +13,13 @@
 ```
 Total ad / tracking block list 屏蔽追踪广告总数: 96866
 
-Total allowlist list 允许名单总数: 1319
+Total allowlist list 允许名单总数: 1320
 
-Total combine list 结合总数： 96738
+Total combine list 结合总数： 96740
 
 Total deadblock list 失效屏蔽广告域名： 17491
 
-Total deadallow list 失效允许广告域名： 93
+Total deadallow list 失效允许广告域名： 92
 
 Update 更新时间: 2020-11-03
 ```
@@ -50,7 +50,7 @@ Update 更新时间: 2020-11-03
 
 ## Download 下载
 ### Full version (With Dead Domain inside) 完整版（包含过期域名）：
-Number of Domain 域名数目： 96738
+Number of Domain 域名数目： 96740
 
 Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
 --------- |:-------------:|:-------------:|:-------------:
