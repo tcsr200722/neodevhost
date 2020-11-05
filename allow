@@ -108,6 +108,7 @@ apis.google.com
 apoll.m.taobao.com
 app-api.ted.com
 app.adjust.com
+app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -142,7 +143,6 @@ b.bdstatic.com
 b.bst.126.net
 baidustatic.com
 baltimore.cbslocal.com
-bannera.kingsoft-office-service.com
 bbc.com
 bbs.archlinux.org
 bcee.lu
@@ -180,7 +180,6 @@ blogs.discovermagazine.com
 bloomberg.com
 board.jdownloader.org
 bokser.org
-bole.shangshufang.ksosoft.com
 books.google.com
 boston.cbslocal.com
 bowercdn.net
@@ -246,6 +245,7 @@ cloud.google.com
 cloudflare.com
 cloudfront.net
 cloudservice19.kingsoft-office-service.com
+cloudservice22.kingsoft-office-service.com
 cnbc.com
 cnbeta.com
 cnbetacdn.com
@@ -261,7 +261,6 @@ cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
 community.spiceworks.com
 confib.ifmo.ru
-config5.update.baofeng.com
 connect.facebook.net
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
@@ -550,6 +549,7 @@ i3.ytimg.com
 i4.ytimg.com
 i8.chinanews.com
 ib.snssdk.com
+ic.ksosoft.com
 ic.rdtuijian.com
 icanhazip.com
 ichnaea.netflix.com
@@ -613,6 +613,7 @@ jcpenney.com
 jdownloader.org
 jiuzhilan.com
 jobs.lifehacker.com
+jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 joemonster.org
 joewein.net
 jquery.com
@@ -769,6 +770,7 @@ nesn.com
 netbsd.org
 netdna.bootstrapcdn.com
 netflix.com
+newapi.shouji.baofeng.com
 newegg.com
 newjobs.com
 news.docer.com
@@ -793,7 +795,6 @@ nk.pl
 no-ip.com
 node.plexapp.com
 nordvpn.com
-notify.wps.cn
 notify.xboxlive.com
 npr-news.streaming.adswizz.com
 npr.org
@@ -875,7 +876,6 @@ paper.li
 pastebin.com
 paypal.com
 paypalobjects.com
-pc.uf.ksosoft.com
 pcbrowser.dd.qq.com
 pcfg.wps.cn
 people.com
@@ -892,6 +892,7 @@ pinimg.com
 pinterest.com
 pittsburgh.cbslocal.com
 pixel.nymag.com
+pixiu.shangshufang.ksosoft.com
 pkobp.pl
 pl-pl.facebook.com
 placehold.it
@@ -917,6 +918,7 @@ pplive.cn
 pps.tv
 ppsimg.com
 pptv.com
+pre.api.tw06.xlmc.sandai.net
 prisjakt.nu
 prnt.sc
 prod.telemetry.ros.rockstargames.com
@@ -960,7 +962,6 @@ report-uri.com
 res.cloudinary.com
 resolver.msg.xiaomi.net
 resources.sbs.com.au
-right.com.cn
 rl.go2yd.com
 road.adblock.ro
 roku.com
@@ -980,7 +981,6 @@ s.yimg.com
 s.youtube.com
 s.ytimg.com
 s.zkcdn.net
-s0.mp.sohu.com
 s1.symcb.com
 s1.wp.com
 s2.symcb.com
@@ -1068,6 +1068,7 @@ star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
+stat.duokanbox.com/tvservice/reportmessage
 static.fontawesome.com
 static.kickstarter.com
 static.licdn.com
@@ -1171,7 +1172,6 @@ union-click.jd.com
 union.video.qq.com
 unitacs.m.taobao.com
 unix.com
-up.wps.kingsoft.com
 upload.facebook.com
 upload.twitter.com
 uploaded.net
