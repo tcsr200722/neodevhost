@@ -245,9 +245,7 @@ clients6.google.com
 cloud.google.com
 cloudflare.com
 cloudfront.net
-cloudservice15.kingsoft-office-service.com
 cloudservice19.kingsoft-office-service.com
-cloudservice22.kingsoft-office-service.com
 cnbc.com
 cnbeta.com
 cnbetacdn.com
@@ -285,7 +283,6 @@ crl.verisign.net
 crunchbase.com
 cse.google.com
 ctldl.windowsupdate.com
-current.sina.com.cn
 customerevents.netflix.com
 cvs.com
 cws.conviva.com
@@ -341,7 +338,6 @@ dl.op.wpscdn.cn
 dlvr.it
 dn.se
 dns.msftncsi.com
-docerad.wps.cn
 docs.google.com
 doubleclick.net
 download.cnet.com
@@ -574,11 +570,9 @@ images.google.com
 images.pluto.tv
 images2.imgbox.com
 images2015.cnblogs.com
-images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg
 imagesak.secureserver.net
 imasdk.googleapis.com
 img.alicdn.com
-img.gou.wpscdn.cn
 img.particlenews.com
 img.vidible.tv
 img.xingzuo360.cn
@@ -617,7 +611,6 @@ jcpenney.com
 jdownloader.org
 jiuzhilan.com
 jobs.lifehacker.com
-jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 joemonster.org
 joewein.net
 jquery.com
@@ -715,6 +708,7 @@ media.sbs.com.au
 mediamarkt.at
 mediamarkt.de
 mediamarkt.es
+mediamarkt.ie
 mediamarkt.nl
 mediamarkt.pl
 mediav.com
@@ -879,8 +873,8 @@ paper.li
 pastebin.com
 paypal.com
 paypalobjects.com
-pc.uf.ksosoft.com
 pcbrowser.dd.qq.com
+pcfg.wps.cn
 people.com
 pfsense.org
 pgl.yoyo.org
@@ -1006,7 +1000,6 @@ scontent.xx.fbcdn.net
 screenshots.firefox.com
 scribd.com
 script.google.com
-sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 search.twitter.com
 sears.com
 secure.avangate.com
@@ -1072,7 +1065,6 @@ star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
-stat.duokanbox.com/tvservice/reportmessage
 static.fontawesome.com
 static.kickstarter.com
 static.licdn.com
@@ -1152,6 +1144,7 @@ tracking.miui.com
 traffic.libsyn.com
 trailers.apple.com
 travel.latimes.com
+treezip.baofeng.net
 tuba.fm
 tudou.com
 tumblr.com
@@ -1250,7 +1243,6 @@ wetter.de
 whirlpool.net.au
 who.is
 widget-cdn.rpxnow.com
-wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 win10.ipv6.microsoft.com
 windows.com
