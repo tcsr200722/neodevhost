@@ -33,6 +33,7 @@ acdn.adnxs.com
 acehardware.com
 acfun.tv
 acs4baichuan.m.taobao.com
+acs4baichuan.m.taobao.com/gw-open/com.alibaba.havana.login.applink.generatetopapplinktoken/1.0/
 acstatic-dun.126.net
 activate.adobe.com
 ad.docer.wps.cn
@@ -86,6 +87,7 @@ amazonaws.com
 amd.cdn.turner.com
 amzn.com
 amzn.to
+analytics-union.xunlei.com
 analytics.twitter.com
 android.clients.google.com
 androidforums.com
@@ -178,6 +180,7 @@ blogs.discovermagazine.com
 bloomberg.com
 board.jdownloader.org
 bokser.org
+bole.shangshufang.ksosoft.com
 books.google.com
 boston.cbslocal.com
 bowercdn.net
@@ -194,7 +197,6 @@ c-adash.m.taobao.com
 c.s-microsoft.com
 c.youtube.com
 cbjs.baidu.com
-cc.vidown.cn/vidown/update.php?version=2.1.4.1_v&id=34127211
 ccc-x.jd.com
 ccleaner.com
 cd.800wen.com
@@ -242,7 +244,7 @@ clients6.google.com
 cloud.google.com
 cloudflare.com
 cloudfront.net
-cloudservice15.kingsoft-office-service.com
+cloudservice19.kingsoft-office-service.com
 cloudservice22.kingsoft-office-service.com
 cnbc.com
 cnbeta.com
@@ -259,7 +261,6 @@ cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
 community.spiceworks.com
 confib.ifmo.ru
-config5.update.baofeng.com
 connect.facebook.net
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
@@ -611,7 +612,6 @@ jcpenney.com
 jdownloader.org
 jiuzhilan.com
 jobs.lifehacker.com
-jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 joemonster.org
 joewein.net
 jquery.com
@@ -767,10 +767,8 @@ nesn.com
 netbsd.org
 netdna.bootstrapcdn.com
 netflix.com
-newapi.shouji.baofeng.com
 newegg.com
 newjobs.com
-news.docer.com
 news.ebc.net.tw
 news.google.com
 news.op.wpscdn.cn
@@ -911,7 +909,6 @@ plus.google.com
 pmd.cdn.turner.com
 pochta.ru
 postimage.org
-pplive.cn
 pps.tv
 ppsimg.com
 pptv.com
@@ -1139,7 +1136,6 @@ tmz.com
 todo-ta-g7g.amazon.com
 tofukko.r.ribbon.to
 tomshardware.com
-tongji.baidu.com
 torrentfreak.com
 toysrus.com
 track.ucas.com
@@ -1168,7 +1164,6 @@ ubuntuforums.org
 unagi-na.amazon.com
 unibytes.com
 union-click.jd.com
-union.video.qq.com
 unitacs.m.taobao.com
 unix.com
 up.wps.kingsoft.com
@@ -1184,6 +1179,7 @@ userscloud.com
 userscripts-mirror.org
 userstream.twitter.com
 v-56.com
+v.baidu.com
 v.firebog.net
 v.pinimg.com
 v.qq.com
@@ -1199,7 +1195,6 @@ vgy.me
 vice.com
 video-stats.l.google.com
 video.google.com
-video.sina.com.cn
 videocdn-sbs.akamaized.net
 videocopilot.net
 videolan.org
@@ -1269,7 +1264,6 @@ www.google-analytics.com
 www.googleapis.com
 www.jbaobao.com
 www.lotustalk.com
-www.maibanu.com
 www.msftconnecttest.com
 www.msftncsi.com
 www.no-ip.com
@@ -1312,3 +1306,4 @@ zh.ifixit.com
 zippyshare.com
 ziprecruiter.com
 zoso.ro
+zz.m.sohu.com
