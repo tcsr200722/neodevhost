@@ -108,6 +108,7 @@ apis.google.com
 apoll.m.taobao.com
 app-api.ted.com
 app.adjust.com
+app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -142,6 +143,8 @@ b.bdstatic.com
 b.bst.126.net
 baidustatic.com
 baltimore.cbslocal.com
+bannera.kingsoft-office-service.com
+baofeng.com
 bbc.com
 bbs.archlinux.org
 bcee.lu
@@ -179,7 +182,6 @@ blogs.discovermagazine.com
 bloomberg.com
 board.jdownloader.org
 bokser.org
-bole.shangshufang.ksosoft.com
 books.google.com
 boston.cbslocal.com
 bowercdn.net
@@ -247,7 +249,6 @@ cloudflare.com
 cloudfront.net
 cloudservice15.kingsoft-office-service.com
 cloudservice19.kingsoft-office-service.com
-cloudservice22.kingsoft-office-service.com
 cnbc.com
 cnbeta.com
 cnbetacdn.com
@@ -276,6 +277,7 @@ corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
 cosmopolitan.com
 costco.com
+cpro.baidu.com
 cracked.com
 cracovia.pl
 crateandbarrel.com
@@ -551,7 +553,6 @@ i3.ytimg.com
 i4.ytimg.com
 i8.chinanews.com
 ib.snssdk.com
-ic.ksosoft.com
 ic.rdtuijian.com
 icanhazip.com
 ichnaea.netflix.com
@@ -563,7 +564,6 @@ ifixit.com
 ifmo.ru
 ikea.com
 image.ibb.co
-image.uczzd.cn/761945378583441460.jpg?id=0&width=212&height=120tudou
 imagebam.com
 images-cn.ssl-images-amazon.com
 images-eu.ssl-images-amazon.com
@@ -771,6 +771,7 @@ nesn.com
 netbsd.org
 netdna.bootstrapcdn.com
 netflix.com
+newapi.shouji.baofeng.com
 newegg.com
 newjobs.com
 news.docer.com
@@ -877,7 +878,6 @@ paper.li
 pastebin.com
 paypal.com
 paypalobjects.com
-pcbrowser.dd.qq.com
 pcfg.wps.cn
 people.com
 pfsense.org
@@ -915,6 +915,7 @@ plus.google.com
 pmd.cdn.turner.com
 pochta.ru
 postimage.org
+pplive.cn
 pps.tv
 ppsimg.com
 pptv.com
@@ -1004,7 +1005,6 @@ scontent.xx.fbcdn.net
 screenshots.firefox.com
 scribd.com
 script.google.com
-sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 search.twitter.com
 sears.com
 secure.avangate.com
@@ -1070,7 +1070,6 @@ star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
-stat.duokanbox.com/tvservice/reportmessage
 static.fontawesome.com
 static.kickstarter.com
 static.licdn.com
@@ -1150,7 +1149,6 @@ tracking.miui.com
 traffic.libsyn.com
 trailers.apple.com
 travel.latimes.com
-treezip.baofeng.net
 tuba.fm
 tudou.com
 tumblr.com
@@ -1174,6 +1172,7 @@ union-click.jd.com
 unitacs.m.taobao.com
 unix.com
 unpkg.com
+up.wps.kingsoft.com
 upload.facebook.com
 upload.twitter.com
 uploaded.net
@@ -1248,6 +1247,7 @@ wetter.de
 whirlpool.net.au
 who.is
 widget-cdn.rpxnow.com
+wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 win10.ipv6.microsoft.com
 windows.com
@@ -1315,3 +1315,4 @@ zh.ifixit.com
 zippyshare.com
 ziprecruiter.com
 zoso.ro
+zz.m.sohu.com
