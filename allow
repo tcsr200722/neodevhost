@@ -108,7 +108,6 @@ apis.google.com
 apoll.m.taobao.com
 app-api.ted.com
 app.adjust.com
-app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -143,6 +142,7 @@ b.bdstatic.com
 b.bst.126.net
 baidustatic.com
 baltimore.cbslocal.com
+bannera.kingsoft-office-service.com
 bbc.com
 bbs.archlinux.org
 bcee.lu
@@ -196,12 +196,12 @@ c-adash.m.taobao.com
 c.s-microsoft.com
 c.youtube.com
 cbjs.baidu.com
+cc.vidown.cn/vidown/update.php?version=2.1.4.1_v&id=34127211
 ccc-x.jd.com
 ccleaner.com
 cd.800wen.com
 cda.pl
 cdn-mobile.api.pluto.tv
-cdn.ark.qq.com
 cdn.datatables.net
 cdn.discordapp.com
 cdn.edgesuite.net
@@ -244,6 +244,7 @@ clients6.google.com
 cloud.google.com
 cloudflare.com
 cloudfront.net
+cloudservice15.kingsoft-office-service.com
 cloudservice19.kingsoft-office-service.com
 cloudservice22.kingsoft-office-service.com
 cnbc.com
@@ -261,7 +262,6 @@ cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
 community.spiceworks.com
 confib.ifmo.ru
-config5.update.baofeng.com
 connect.facebook.net
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
@@ -614,7 +614,6 @@ jcpenney.com
 jdownloader.org
 jiuzhilan.com
 jobs.lifehacker.com
-jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 joemonster.org
 joewein.net
 jquery.com
@@ -664,6 +663,7 @@ light.ifmo.ru
 limtu.ifmo.ru
 link.theplatform.com
 linkedin.com
+list.video.baidu.com
 live.com
 live.net
 livefilestore.com
@@ -741,7 +741,6 @@ mirror1.malwaredomains.com
 mis.g.mi.com
 mistrzowie.org
 mlb.com
-mlog.search.xiaomi.net
 mls.com
 mobile-ap.spotify.com
 mon.isnssdk.com
@@ -893,6 +892,7 @@ pinimg.com
 pinterest.com
 pittsburgh.cbslocal.com
 pixel.nymag.com
+pixiu.shangshufang.ksosoft.com
 pkobp.pl
 pl-pl.facebook.com
 placehold.it
@@ -914,7 +914,6 @@ plus.google.com
 pmd.cdn.turner.com
 pochta.ru
 postimage.org
-pplive.cn
 pps.tv
 ppsimg.com
 pptv.com
@@ -1150,7 +1149,6 @@ tracking.miui.com
 traffic.libsyn.com
 trailers.apple.com
 travel.latimes.com
-treezip.baofeng.net
 tuba.fm
 tudou.com
 tumblr.com
@@ -1197,7 +1195,6 @@ v20.events.data.microsoft.com
 variety.com
 vasapi.rdtuijian.com
 vc.yahoo.com
-vd.l.qq.com
 verisign.com
 vgy.me
 vice.com
