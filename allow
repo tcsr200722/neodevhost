@@ -100,7 +100,6 @@ api.open.uc.cn
 api.pluto.tv
 api.rlje.net
 api.sbs.com.au
-api.tw06.xlmc.sandai.net
 api.twitter.com
 api.waptest.taobao.com
 apis.google.com
@@ -179,7 +178,6 @@ blogs.discovermagazine.com
 bloomberg.com
 board.jdownloader.org
 bokser.org
-bole.shangshufang.ksosoft.com
 books.google.com
 boston.cbslocal.com
 bowercdn.net
@@ -201,6 +199,7 @@ ccleaner.com
 cd.800wen.com
 cda.pl
 cdn-mobile.api.pluto.tv
+cdn.ark.qq.com
 cdn.datatables.net
 cdn.discordapp.com
 cdn.edgesuite.net
@@ -243,9 +242,6 @@ clients6.google.com
 cloud.google.com
 cloudflare.com
 cloudfront.net
-cloudservice15.kingsoft-office-service.com
-cloudservice19.kingsoft-office-service.com
-cloudservice22.kingsoft-office-service.com
 cnbc.com
 cnbeta.com
 cnbetacdn.com
@@ -281,6 +277,7 @@ crl.verisign.net
 crunchbase.com
 cse.google.com
 ctldl.windowsupdate.com
+current.sina.com.cn
 customerevents.netflix.com
 cvs.com
 cws.conviva.com
@@ -546,7 +543,6 @@ i3.ytimg.com
 i4.ytimg.com
 i8.chinanews.com
 ib.snssdk.com
-ic.ksosoft.com
 ic.rdtuijian.com
 icanhazip.com
 ichnaea.netflix.com
@@ -568,6 +564,7 @@ images.google.com
 images.pluto.tv
 images2.imgbox.com
 images2015.cnblogs.com
+images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg
 imagesak.secureserver.net
 imasdk.googleapis.com
 img.alicdn.com
@@ -614,6 +611,7 @@ joemonster.org
 joewein.net
 jquery.com
 js.maxmind.com
+js.passport.qihucdn.com
 jsdelivr.net
 jsfiddle.net
 jspassport.ssl.qhimg.com
@@ -658,6 +656,7 @@ light.ifmo.ru
 limtu.ifmo.ru
 link.theplatform.com
 linkedin.com
+list.video.baidu.com
 live.com
 live.net
 livefilestore.com
@@ -742,7 +741,6 @@ mobile-ap.spotify.com
 mon.isnssdk.com
 movies.netflix.com
 mozillazine.org
-mp.weixinbridge.com
 mqtt-mini.facebook.com
 msftncsi.com
 msg.edit.yahoo.com
@@ -872,6 +870,7 @@ pastebin.com
 paypal.com
 paypalobjects.com
 pc.uf.ksosoft.com
+pcbrowser.dd.qq.com
 pcfg.wps.cn
 people.com
 pfsense.org
@@ -882,11 +881,11 @@ pi-hole.net
 pic.twitter.com
 pilkanozna.pl
 pings.conviva.com
+pingtcss.qq.com
 pinimg.com
 pinterest.com
 pittsburgh.cbslocal.com
 pixel.nymag.com
-pixiu.shangshufang.ksosoft.com
 pkobp.pl
 pl-pl.facebook.com
 placehold.it
@@ -908,9 +907,11 @@ plus.google.com
 pmd.cdn.turner.com
 pochta.ru
 postimage.org
+pplive.cn
 pps.tv
 ppsimg.com
 pptv.com
+pre.api.tw06.xlmc.sandai.net
 prisjakt.nu
 prnt.sc
 prod.telemetry.ros.rockstargames.com
@@ -919,6 +920,7 @@ promodj.com
 protonmail.com
 proxy.novafusion.ea.com
 proxy.plex.bz
+ptqy.gitv.tv
 public-api.wordpress.com
 publicsuffix.org
 publix.com
@@ -973,7 +975,6 @@ s.yimg.com
 s.youtube.com
 s.ytimg.com
 s.zkcdn.net
-s0.mp.sohu.com
 s1.symcb.com
 s1.wp.com
 s2.symcb.com
@@ -995,6 +996,7 @@ scontent.xx.fbcdn.net
 screenshots.firefox.com
 scribd.com
 script.google.com
+sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 search.twitter.com
 sears.com
 secure.avangate.com
@@ -1140,8 +1142,6 @@ tracking.miui.com
 traffic.libsyn.com
 trailers.apple.com
 travel.latimes.com
-treexml.baofeng.net
-treezip.baofeng.net
 tuba.fm
 tudou.com
 tumblr.com
@@ -1162,7 +1162,6 @@ ubuntuforums.org
 unagi-na.amazon.com
 unibytes.com
 union-click.jd.com
-union.video.qq.com
 unitacs.m.taobao.com
 unix.com
 unpkg.com
@@ -1195,6 +1194,7 @@ vgy.me
 vice.com
 video-stats.l.google.com
 video.google.com
+video.sina.com.cn
 videocdn-sbs.akamaized.net
 videocopilot.net
 videolan.org
@@ -1240,6 +1240,7 @@ wetter.de
 whirlpool.net.au
 who.is
 widget-cdn.rpxnow.com
+wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 win10.ipv6.microsoft.com
 windows.com
@@ -1264,6 +1265,7 @@ www.google-analytics.com
 www.googleapis.com
 www.jbaobao.com
 www.lotustalk.com
+www.maibanu.com
 www.msftconnecttest.com
 www.msftncsi.com
 www.no-ip.com
