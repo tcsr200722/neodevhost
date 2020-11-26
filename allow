@@ -87,7 +87,6 @@ amazonaws.com
 amd.cdn.turner.com
 amzn.com
 amzn.to
-analytics-union.xunlei.com
 analytics.twitter.com
 android.clients.google.com
 androidforums.com
@@ -101,7 +100,6 @@ api.open.uc.cn
 api.pluto.tv
 api.rlje.net
 api.sbs.com.au
-api.tw06.xlmc.sandai.net
 api.twitter.com
 api.waptest.taobao.com
 apis.google.com
@@ -181,6 +179,7 @@ blogs.discovermagazine.com
 bloomberg.com
 board.jdownloader.org
 bokser.org
+bole.shangshufang.ksosoft.com
 books.google.com
 boston.cbslocal.com
 bowercdn.net
@@ -202,6 +201,7 @@ ccleaner.com
 cd.800wen.com
 cda.pl
 cdn-mobile.api.pluto.tv
+cdn.ark.qq.com
 cdn.datatables.net
 cdn.discordapp.com
 cdn.edgesuite.net
@@ -262,6 +262,7 @@ cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
 community.spiceworks.com
 confib.ifmo.ru
+config5.update.baofeng.com
 connect.facebook.net
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
@@ -444,6 +445,7 @@ freenet.de
 frys.com
 ftp.chocolatey.org
 ftp.heanet.ie
+fun.tv
 funnyordie.com
 funshion.com
 fvs.io
@@ -549,6 +551,7 @@ i4.ytimg.com
 i8.chinanews.com
 ib.snssdk.com
 ic.ksosoft.com
+ic.rdtuijian.com
 icanhazip.com
 ichnaea.netflix.com
 icloud.com
@@ -590,7 +593,6 @@ imgur.com
 imtt.qq.com
 indeed.com
 info.sec.miui.com
-info.wps.cn
 insomniagamingfestival.com
 instagram.c10r.facebook.com
 instagram.com
@@ -612,7 +614,6 @@ jcpenney.com
 jdownloader.org
 jiuzhilan.com
 jobs.lifehacker.com
-jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 joemonster.org
 joewein.net
 jquery.com
@@ -695,7 +696,6 @@ malwaredomains.lehigh.edu
 malwareurls.joxeankoret.com
 manifest.auditude.com
 manifest.googlevideo.com
-map-mobile-lbsapp.cdn.bcebos.com
 maps.google.com
 maps.googleapis.com
 maps.gstatic.com
@@ -768,7 +768,6 @@ nesn.com
 netbsd.org
 netdna.bootstrapcdn.com
 netflix.com
-newapi.shouji.baofeng.com
 newegg.com
 newjobs.com
 news.docer.com
@@ -874,6 +873,8 @@ paper.li
 pastebin.com
 paypal.com
 paypalobjects.com
+pcbrowser.dd.qq.com
+pcfg.wps.cn
 people.com
 pfsense.org
 pgl.yoyo.org
@@ -883,6 +884,7 @@ pi-hole.net
 pic.twitter.com
 pilkanozna.pl
 pings.conviva.com
+pingtcss.qq.com
 pinimg.com
 pinterest.com
 pittsburgh.cbslocal.com
@@ -893,7 +895,6 @@ pl-pl.facebook.com
 placehold.it
 platform.instagram.com
 platform.twitter.com
-play.baidu.com
 play.google.com
 play.lego.com
 play.spotify.com
@@ -1146,6 +1147,7 @@ traffic.libsyn.com
 trailers.apple.com
 travel.latimes.com
 treexml.baofeng.net
+treezip.baofeng.net
 tuba.fm
 tudou.com
 tumblr.com
@@ -1191,6 +1193,7 @@ v0.wordpress.com
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 variety.com
+vasapi.rdtuijian.com
 vc.yahoo.com
 vd.l.qq.com
 verisign.com
@@ -1244,7 +1247,6 @@ wetter.de
 whirlpool.net.au
 who.is
 widget-cdn.rpxnow.com
-wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 win10.ipv6.microsoft.com
 windows.com
@@ -1312,3 +1314,4 @@ zh.ifixit.com
 zippyshare.com
 ziprecruiter.com
 zoso.ro
+zz.m.sohu.com
