@@ -108,7 +108,6 @@ apis.google.com
 apoll.m.taobao.com
 app-api.ted.com
 app.adjust.com
-app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -245,6 +244,7 @@ clients6.google.com
 cloud.google.com
 cloudflare.com
 cloudfront.net
+cloudservice15.kingsoft-office-service.com
 cloudservice19.kingsoft-office-service.com
 cloudservice22.kingsoft-office-service.com
 cnbc.com
@@ -262,6 +262,7 @@ cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
 community.spiceworks.com
 confib.ifmo.ru
+config5.update.baofeng.com
 connect.facebook.net
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
@@ -549,7 +550,6 @@ i3.ytimg.com
 i4.ytimg.com
 i8.chinanews.com
 ib.snssdk.com
-ic.ksosoft.com
 ic.rdtuijian.com
 icanhazip.com
 ichnaea.netflix.com
@@ -892,7 +892,6 @@ pinimg.com
 pinterest.com
 pittsburgh.cbslocal.com
 pixel.nymag.com
-pixiu.shangshufang.ksosoft.com
 pkobp.pl
 pl-pl.facebook.com
 placehold.it
@@ -914,6 +913,7 @@ plus.google.com
 pmd.cdn.turner.com
 pochta.ru
 postimage.org
+pplive.cn
 pps.tv
 ppsimg.com
 pptv.com
@@ -926,7 +926,6 @@ promodj.com
 protonmail.com
 proxy.novafusion.ea.com
 proxy.plex.bz
-ptqy.gitv.tv
 public-api.wordpress.com
 publicsuffix.org
 publix.com
@@ -1149,7 +1148,6 @@ tracking.miui.com
 traffic.libsyn.com
 trailers.apple.com
 travel.latimes.com
-treezip.baofeng.net
 tuba.fm
 tudou.com
 tumblr.com
@@ -1297,7 +1295,6 @@ xkms.xboxlive.com
 xmpp-server.l.google.com
 xsts.auth.xboxlive.com
 yahoo.com
-you.ctrip.com
 you85.cn
 youku.com
 youtu.be
