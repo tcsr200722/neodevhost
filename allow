@@ -108,6 +108,7 @@ apis.google.com
 apoll.m.taobao.com
 app-api.ted.com
 app.adjust.com
+app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -142,6 +143,7 @@ b.bdstatic.com
 b.bst.126.net
 baidustatic.com
 baltimore.cbslocal.com
+bannera.kingsoft-office-service.com
 bbc.com
 bbs.archlinux.org
 bcee.lu
@@ -262,7 +264,6 @@ cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
 community.spiceworks.com
 confib.ifmo.ru
-config5.update.baofeng.com
 connect.facebook.net
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
@@ -550,6 +551,7 @@ i3.ytimg.com
 i4.ytimg.com
 i8.chinanews.com
 ib.snssdk.com
+ic.ksosoft.com
 ic.rdtuijian.com
 icanhazip.com
 ichnaea.netflix.com
@@ -571,7 +573,6 @@ images.google.com
 images.pluto.tv
 images2.imgbox.com
 images2015.cnblogs.com
-images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg
 imagesak.secureserver.net
 imasdk.googleapis.com
 img.alicdn.com
@@ -618,7 +619,6 @@ joemonster.org
 joewein.net
 jquery.com
 js.maxmind.com
-js.passport.qihucdn.com
 jsdelivr.net
 jsfiddle.net
 jspassport.ssl.qhimg.com
@@ -704,6 +704,7 @@ margevicius.lt
 market.spotify.com
 marketwatch.com
 mashable.com
+mastersim.wifi.com/h5/apply_4.html?utm_source=wifihome&utm_campaign=pc&v=12&channel=02
 maxcdn.bootstrapcdn.com
 maxthon.com
 media.licdn.com
@@ -875,7 +876,6 @@ paper.li
 pastebin.com
 paypal.com
 paypalobjects.com
-pc.uf.ksosoft.com
 pcbrowser.dd.qq.com
 pcfg.wps.cn
 people.com
@@ -892,6 +892,7 @@ pinimg.com
 pinterest.com
 pittsburgh.cbslocal.com
 pixel.nymag.com
+pixiu.shangshufang.ksosoft.com
 pkobp.pl
 pl-pl.facebook.com
 placehold.it
@@ -926,6 +927,7 @@ promodj.com
 protonmail.com
 proxy.novafusion.ea.com
 proxy.plex.bz
+ptqy.gitv.tv
 public-api.wordpress.com
 publicsuffix.org
 publix.com
@@ -960,7 +962,6 @@ report-uri.com
 res.cloudinary.com
 resolver.msg.xiaomi.net
 resources.sbs.com.au
-right.com.cn
 rl.go2yd.com
 road.adblock.ro
 roku.com
@@ -1148,6 +1149,8 @@ tracking.miui.com
 traffic.libsyn.com
 trailers.apple.com
 travel.latimes.com
+treexml.baofeng.net
+treezip.baofeng.net
 tuba.fm
 tudou.com
 tumblr.com
@@ -1272,7 +1275,6 @@ www.google-analytics.com
 www.googleapis.com
 www.jbaobao.com
 www.lotustalk.com
-www.maibanu.com
 www.msftconnecttest.com
 www.msftncsi.com
 www.no-ip.com
@@ -1295,6 +1297,7 @@ xkms.xboxlive.com
 xmpp-server.l.google.com
 xsts.auth.xboxlive.com
 yahoo.com
+you.ctrip.com
 you85.cn
 youku.com
 youtu.be
