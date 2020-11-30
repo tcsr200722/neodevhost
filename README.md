@@ -9,7 +9,7 @@
 [![license](https://img.shields.io/github/license/neodevpro/neodevhost.svg)](https://github.com/neodevpro/neodevhost/blob/master/LICENSE)<br/>
 [![GitHub forks](https://img.shields.io/github/forks/neodevpro/neodevhost.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/neodevpro/neodevhost)<br/>
 [![GitHub Stars](https://img.shields.io/github/stars/neodevpro/neodevhost.svg?style=social&label=Star&maxAge=2592000)](https://github.com/neodevpro/neodevhost)<br/>
-https://img.shields.io/github/commit-activity/w/neodevpro/neodevhost
+[![Commits activities](https://img.shields.io/github/commit-activity/w/neodevpro/neodevhost.svg)](https://github.com/neodevpro/neodevhost)
 ```
 Total ad / tracking block list 屏蔽追踪广告总数: 98878
 
