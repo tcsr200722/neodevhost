@@ -248,6 +248,7 @@ cloudflare.com
 cloudfront.net
 cloudservice15.kingsoft-office-service.com
 cloudservice19.kingsoft-office-service.com
+cloudservice22.kingsoft-office-service.com
 cnbc.com
 cnbeta.com
 cnbetacdn.com
@@ -666,7 +667,6 @@ light.ifmo.ru
 limtu.ifmo.ru
 link.theplatform.com
 linkedin.com
-list.video.baidu.com
 live.com
 live.net
 livefilestore.com
@@ -715,6 +715,7 @@ media.sbs.com.au
 mediamarkt.at
 mediamarkt.de
 mediamarkt.es
+mediamarkt.ie
 mediamarkt.nl
 mediamarkt.pl
 mediav.com
@@ -930,6 +931,7 @@ promodj.com
 protonmail.com
 proxy.novafusion.ea.com
 proxy.plex.bz
+ptqy.gitv.tv
 public-api.wordpress.com
 publicsuffix.org
 publix.com
@@ -963,7 +965,6 @@ report-uri.com
 res.cloudinary.com
 resolver.msg.xiaomi.net
 resources.sbs.com.au
-right.com.cn
 rl.go2yd.com
 road.adblock.ro
 roku.com
@@ -1023,7 +1024,6 @@ sendspace.com
 services.sonarr.tv
 serving-sys.com
 settings-sandbox.data.microsoft.com
-sg.a.stat.mi.com
 share-online.biz
 share.baidu.com
 shareaholic.com
@@ -1071,6 +1071,7 @@ star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
+stat.duokanbox.com/tvservice/reportmessage
 static.fontawesome.com
 static.kickstarter.com
 static.licdn.com
@@ -1199,7 +1200,6 @@ v20.events.data.microsoft.com
 variety.com
 vasapi.rdtuijian.com
 vc.yahoo.com
-vd.l.qq.com
 verisign.com
 vgy.me
 vice.com
