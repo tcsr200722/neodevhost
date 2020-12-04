@@ -101,12 +101,14 @@ api.open.uc.cn
 api.pluto.tv
 api.rlje.net
 api.sbs.com.au
+api.tw06.xlmc.sandai.net
 api.twitter.com
 api.waptest.taobao.com
 apis.google.com
 apoll.m.taobao.com
 app-api.ted.com
 app.adjust.com
+app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -143,7 +145,6 @@ baidustatic.com
 baltimore.cbslocal.com
 bannera.kingsoft-office-service.com
 baofeng.com
-baofeng.net
 bbc.com
 bbs.archlinux.org
 bcee.lu
@@ -204,7 +205,6 @@ cd.800wen.com
 cda.pl
 cdn-mobile.api.pluto.tv
 cdn.ark.qq.com
-cdn.cloudflare.net
 cdn.datatables.net
 cdn.discordapp.com
 cdn.edgesuite.net
@@ -249,6 +249,7 @@ cloudflare.com
 cloudfront.net
 cloudservice15.kingsoft-office-service.com
 cloudservice19.kingsoft-office-service.com
+cloudservice22.kingsoft-office-service.com
 cnbc.com
 cnbeta.com
 cnbetacdn.com
@@ -564,7 +565,6 @@ ifixit.com
 ifmo.ru
 ikea.com
 image.ibb.co
-image.uczzd.cn/761945378583441460.jpg?id=0&width=212&height=120tudou
 imagebam.com
 images-cn.ssl-images-amazon.com
 images-eu.ssl-images-amazon.com
@@ -707,6 +707,7 @@ margevicius.lt
 market.spotify.com
 marketwatch.com
 mashable.com
+mastersim.wifi.com/h5/apply_4.html?utm_source=wifihome&utm_campaign=pc&v=12&channel=02
 maxcdn.bootstrapcdn.com
 maxthon.com
 media.licdn.com
@@ -878,6 +879,7 @@ paper.li
 pastebin.com
 paypal.com
 paypalobjects.com
+pc.uf.ksosoft.com
 pcbrowser.dd.qq.com
 pcfg.wps.cn
 people.com
@@ -894,10 +896,10 @@ pinimg.com
 pinterest.com
 pittsburgh.cbslocal.com
 pixel.nymag.com
+pixiu.shangshufang.ksosoft.com
 pkobp.pl
 pl-pl.facebook.com
 placehold.it
-placeholdit.imgix.net
 platform.instagram.com
 platform.twitter.com
 play.baidu.com
@@ -988,7 +990,6 @@ s0.mp.sohu.com
 s1.symcb.com
 s1.wp.com
 s2.symcb.com
-s2.youtube.com
 s3-eu-west-1.amazonaws.com
 s3.amazonaws.com
 sa.symcb.com
@@ -1007,6 +1008,7 @@ scontent.xx.fbcdn.net
 screenshots.firefox.com
 scribd.com
 script.google.com
+sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 search.twitter.com
 sears.com
 secure.avangate.com
@@ -1151,6 +1153,7 @@ tracking.miui.com
 traffic.libsyn.com
 trailers.apple.com
 travel.latimes.com
+treexml.baofeng.net
 treezip.baofeng.net
 tuba.fm
 tudou.com
@@ -1276,7 +1279,6 @@ www.google-analytics.com
 www.googleapis.com
 www.jbaobao.com
 www.lotustalk.com
-www.maibanu.com
 www.msftconnecttest.com
 www.msftncsi.com
 www.no-ip.com
