@@ -108,7 +108,6 @@ apis.google.com
 apoll.m.taobao.com
 app-api.ted.com
 app.adjust.com
-app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -143,7 +142,7 @@ b.bdstatic.com
 b.bst.126.net
 baidustatic.com
 baltimore.cbslocal.com
-bannera.kingsoft-office-service.com
+baofeng.com
 bbc.com
 bbs.archlinux.org
 bcee.lu
@@ -249,6 +248,7 @@ cloudflare.com
 cloudfront.net
 cloudservice15.kingsoft-office-service.com
 cloudservice19.kingsoft-office-service.com
+cloudservice22.kingsoft-office-service.com
 cnbc.com
 cnbeta.com
 cnbetacdn.com
@@ -264,7 +264,6 @@ cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
 community.spiceworks.com
 confib.ifmo.ru
-config5.update.baofeng.com
 connect.facebook.net
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
@@ -447,6 +446,7 @@ freenet.de
 frys.com
 ftp.chocolatey.org
 ftp.heanet.ie
+fun.tv
 funnyordie.com
 funshion.com
 fvs.io
@@ -551,7 +551,6 @@ i3.ytimg.com
 i4.ytimg.com
 i8.chinanews.com
 ib.snssdk.com
-ic.ksosoft.com
 ic.rdtuijian.com
 icanhazip.com
 ichnaea.netflix.com
@@ -573,7 +572,6 @@ images.google.com
 images.pluto.tv
 images2.imgbox.com
 images2015.cnblogs.com
-images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg
 imagesak.secureserver.net
 imasdk.googleapis.com
 img.alicdn.com
@@ -601,6 +599,7 @@ instagram.com
 instantmessaging-pa.googleapis.com
 intercom.io
 investorplace.com
+ip.cms.sohu.com
 ipinfo.io
 ipla.tv
 iqiyi.com
@@ -770,10 +769,8 @@ nesn.com
 netbsd.org
 netdna.bootstrapcdn.com
 netflix.com
-newapi.shouji.baofeng.com
 newegg.com
 newjobs.com
-news.docer.com
 news.ebc.net.tw
 news.google.com
 news.op.wpscdn.cn
@@ -893,6 +890,7 @@ pinimg.com
 pinterest.com
 pittsburgh.cbslocal.com
 pixel.nymag.com
+pixiu.shangshufang.ksosoft.com
 pkobp.pl
 pl-pl.facebook.com
 placehold.it
@@ -914,6 +912,7 @@ plus.google.com
 pmd.cdn.turner.com
 pochta.ru
 postimage.org
+pplive.cn
 pps.tv
 ppsimg.com
 pptv.com
@@ -1003,7 +1002,6 @@ scontent.xx.fbcdn.net
 screenshots.firefox.com
 scribd.com
 script.google.com
-sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 search.twitter.com
 sears.com
 secure.avangate.com
@@ -1069,6 +1067,7 @@ star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
+stat.duokanbox.com/tvservice/reportmessage
 static.fontawesome.com
 static.kickstarter.com
 static.licdn.com
@@ -1111,7 +1110,6 @@ teamviewer.com
 techguy.org
 techrepublic.com
 tedcdn.com
-test.api.xlmc.sandai.net
 tg.602.com
 tg.654321wan.com
 tg.7477.com
@@ -1273,7 +1271,6 @@ www.google-analytics.com
 www.googleapis.com
 www.jbaobao.com
 www.lotustalk.com
-www.maibanu.com
 www.msftconnecttest.com
 www.msftncsi.com
 www.no-ip.com
