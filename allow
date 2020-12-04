@@ -95,6 +95,7 @@ answers.com
 answers.yahoo.com
 ap.spotify.com
 api-global.netflix.com
+api.io.mi.com
 api.ipify.org
 api.open.uc.cn
 api.pluto.tv
@@ -247,7 +248,6 @@ cloudflare.com
 cloudfront.net
 cloudservice15.kingsoft-office-service.com
 cloudservice19.kingsoft-office-service.com
-cloudservice22.kingsoft-office-service.com
 cnbc.com
 cnbeta.com
 cnbetacdn.com
@@ -263,6 +263,7 @@ cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
 community.spiceworks.com
 confib.ifmo.ru
+config5.update.baofeng.com
 connect.facebook.net
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
@@ -760,7 +761,6 @@ mydrivers.com
 mywot.com
 mzstatic.com
 namecheap.com
-naszdziennik.pl
 nationalgeographic.com
 nba.com
 nbcnews.com
@@ -771,10 +771,8 @@ nesn.com
 netbsd.org
 netdna.bootstrapcdn.com
 netflix.com
-newapi.shouji.baofeng.com
 newegg.com
 newjobs.com
-news.docer.com
 news.ebc.net.tw
 news.google.com
 news.op.wpscdn.cn
@@ -915,7 +913,6 @@ plus.google.com
 pmd.cdn.turner.com
 pochta.ru
 postimage.org
-pplive.cn
 pps.tv
 ppsimg.com
 pptv.com
