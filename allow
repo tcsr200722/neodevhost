@@ -87,7 +87,6 @@ amazonaws.com
 amd.cdn.turner.com
 amzn.com
 amzn.to
-analytics-union.xunlei.com
 analytics.twitter.com
 android.clients.google.com
 androidforums.com
@@ -95,6 +94,7 @@ answers.com
 answers.yahoo.com
 ap.spotify.com
 api-global.netflix.com
+api.io.mi.com
 api.ipify.org
 api.open.uc.cn
 api.pluto.tv
@@ -142,7 +142,6 @@ b.bst.126.net
 baidustatic.com
 baltimore.cbslocal.com
 bannera.kingsoft-office-service.com
-baofeng.net
 bbc.com
 bbs.archlinux.org
 bcee.lu
@@ -180,7 +179,6 @@ blogs.discovermagazine.com
 bloomberg.com
 board.jdownloader.org
 bokser.org
-bole.shangshufang.ksosoft.com
 books.google.com
 boston.cbslocal.com
 bowercdn.net
@@ -196,8 +194,8 @@ bydgoszcz.tvp.pl
 c-adash.m.taobao.com
 c.s-microsoft.com
 c.youtube.com
-cbjs.baidu.com
 cc.vidown.cn/vidown/update.php?version=2.1.4.1_v&id=34127211
+ccc-x.jd.com
 ccleaner.com
 cd.800wen.com
 cda.pl
@@ -263,7 +261,6 @@ cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
 community.spiceworks.com
 confib.ifmo.ru
-config5.update.baofeng.com
 connect.facebook.net
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
@@ -551,7 +548,6 @@ i3.ytimg.com
 i4.ytimg.com
 i8.chinanews.com
 ib.snssdk.com
-ic.ksosoft.com
 ic.rdtuijian.com
 icanhazip.com
 ichnaea.netflix.com
@@ -563,7 +559,6 @@ ifixit.com
 ifmo.ru
 ikea.com
 image.ibb.co
-image.uczzd.cn/761945378583441460.jpg?id=0&width=212&height=120tudou
 imagebam.com
 images-cn.ssl-images-amazon.com
 images-eu.ssl-images-amazon.com
@@ -573,7 +568,6 @@ images.google.com
 images.pluto.tv
 images2.imgbox.com
 images2015.cnblogs.com
-images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg
 imagesak.secureserver.net
 imasdk.googleapis.com
 img.alicdn.com
@@ -697,7 +691,6 @@ malwaredomains.lehigh.edu
 malwareurls.joxeankoret.com
 manifest.auditude.com
 manifest.googlevideo.com
-map-mobile-lbsapp.cdn.bcebos.com
 maps.google.com
 maps.googleapis.com
 maps.gstatic.com
@@ -712,6 +705,7 @@ media.sbs.com.au
 mediamarkt.at
 mediamarkt.de
 mediamarkt.es
+mediamarkt.ie
 mediamarkt.nl
 mediamarkt.pl
 mediav.com
@@ -772,7 +766,6 @@ netflix.com
 newapi.shouji.baofeng.com
 newegg.com
 newjobs.com
-news.docer.com
 news.ebc.net.tw
 news.google.com
 news.op.wpscdn.cn
@@ -914,7 +907,6 @@ plus.google.com
 pmd.cdn.turner.com
 pochta.ru
 postimage.org
-pplive.cn
 pps.tv
 ppsimg.com
 pptv.com
@@ -940,7 +932,6 @@ radiostacja.pl
 ransomwaretracker.abuse.ch
 rapidgator.net
 rapidvideo.com
-rating6.kingsoft-office-service.com
 raw.githack.com
 raw.github.com
 raw.githubusercontent.com
@@ -962,7 +953,6 @@ report-uri.com
 res.cloudinary.com
 resolver.msg.xiaomi.net
 resources.sbs.com.au
-right.com.cn
 rl.go2yd.com
 road.adblock.ro
 roku.com
@@ -1004,7 +994,6 @@ scontent.xx.fbcdn.net
 screenshots.firefox.com
 scribd.com
 script.google.com
-sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 search.twitter.com
 sears.com
 secure.avangate.com
@@ -1070,7 +1059,6 @@ star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
-stat.duokanbox.com/tvservice/reportmessage
 static.fontawesome.com
 static.kickstarter.com
 static.licdn.com
@@ -1116,7 +1104,6 @@ tedcdn.com
 test.api.xlmc.sandai.net
 tg.602.com
 tg.654321wan.com
-tg.7477.com
 thechive.com
 thefreethoughtproject.com
 thehill.com
@@ -1150,6 +1137,8 @@ tracking.miui.com
 traffic.libsyn.com
 trailers.apple.com
 travel.latimes.com
+treexml.baofeng.net
+treezip.baofeng.net
 tuba.fm
 tudou.com
 tumblr.com
@@ -1170,7 +1159,6 @@ ubuntuforums.org
 unagi-na.amazon.com
 unibytes.com
 union-click.jd.com
-union.video.qq.com
 unitacs.m.taobao.com
 unix.com
 unpkg.com
@@ -1249,7 +1237,6 @@ wetter.de
 whirlpool.net.au
 who.is
 widget-cdn.rpxnow.com
-wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 win10.ipv6.microsoft.com
 windows.com
