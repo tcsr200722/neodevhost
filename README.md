@@ -13,13 +13,13 @@
 ```
 Total ad / tracking block list 屏蔽追踪广告总数: 97270
 
-Total allowlist list 允许名单总数: 1320
+Total allowlist list 允许名单总数: 1322
 
 Total combine list 结合总数： 97141
 
 Total deadblock list 失效屏蔽广告域名： 18492
 
-Total deadallow list 失效允许广告域名： 95
+Total deadallow list 失效允许广告域名： 93
 
 Update 更新时间: 2020-12-08
 ```
