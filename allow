@@ -108,7 +108,6 @@ apis.google.com
 apoll.m.taobao.com
 app-api.ted.com
 app.adjust.com
-app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -144,7 +143,6 @@ b.bst.126.net
 baidustatic.com
 baltimore.cbslocal.com
 bannera.kingsoft-office-service.com
-baofeng.net
 bbc.com
 bbs.archlinux.org
 bcee.lu
@@ -198,7 +196,6 @@ c-adash.m.taobao.com
 c.s-microsoft.com
 c.youtube.com
 cbjs.baidu.com
-cc.vidown.cn/vidown/update.php?version=2.1.4.1_v&id=34127211
 ccc-x.jd.com
 ccleaner.com
 cd.800wen.com
@@ -248,7 +245,6 @@ cloud.google.com
 cloudflare.com
 cloudfront.net
 cloudservice15.kingsoft-office-service.com
-cloudservice19.kingsoft-office-service.com
 cloudservice22.kingsoft-office-service.com
 cnbc.com
 cnbeta.com
@@ -265,6 +261,7 @@ cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
 community.spiceworks.com
 confib.ifmo.ru
+connect.facebook.net
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
 console.cloud.google.com
@@ -318,6 +315,7 @@ device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
+dfnews.rdtuijian.com
 di.com.pl
 dictionary.cambridge.org
 digg.com
@@ -551,7 +549,6 @@ i3.ytimg.com
 i4.ytimg.com
 i8.chinanews.com
 ib.snssdk.com
-ic.ksosoft.com
 ic.rdtuijian.com
 icanhazip.com
 ichnaea.netflix.com
@@ -616,13 +613,13 @@ jcpenney.com
 jdownloader.org
 jiuzhilan.com
 jobs.lifehacker.com
+jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 joemonster.org
 joewein.net
 jquery.com
 js.maxmind.com
 jsdelivr.net
 jsfiddle.net
-jspassport.ssl.qhimg.com
 jwpcdn.com
 jwpsrv.com
 katowice.tvp.pl
@@ -704,6 +701,7 @@ margevicius.lt
 market.spotify.com
 marketwatch.com
 mashable.com
+mastersim.wifi.com/h5/apply_4.html?utm_source=wifihome&utm_campaign=pc&v=12&channel=02
 maxcdn.bootstrapcdn.com
 maxthon.com
 media.licdn.com
@@ -874,7 +872,6 @@ paper.li
 pastebin.com
 paypal.com
 paypalobjects.com
-pc.uf.ksosoft.com
 pcbrowser.dd.qq.com
 pcfg.wps.cn
 people.com
@@ -960,7 +957,6 @@ report-uri.com
 res.cloudinary.com
 resolver.msg.xiaomi.net
 resources.sbs.com.au
-right.com.cn
 rl.go2yd.com
 road.adblock.ro
 roku.com
@@ -1002,7 +998,6 @@ scontent.xx.fbcdn.net
 screenshots.firefox.com
 scribd.com
 script.google.com
-sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 search.twitter.com
 sears.com
 secure.avangate.com
@@ -1126,6 +1121,7 @@ thetvdb.com
 theverge.com
 thumbs.videopress.com
 thumbs2.imgbox.com
+tieba.baidu.com
 time.com
 time.samsungcloudsolution.com
 tinypic.com
@@ -1139,6 +1135,7 @@ tmz.com
 todo-ta-g7g.amazon.com
 tofukko.r.ribbon.to
 tomshardware.com
+tongji.baidu.com
 torrentfreak.com
 toysrus.com
 track.ucas.com
@@ -1166,10 +1163,12 @@ twitter.com
 ubuntuforums.org
 unagi-na.amazon.com
 unibytes.com
+union-click.jd.com
 union.video.qq.com
 unitacs.m.taobao.com
 unix.com
 unpkg.com
+up.wps.kingsoft.com
 upload.facebook.com
 upload.twitter.com
 uploaded.net
@@ -1244,6 +1243,7 @@ wetter.de
 whirlpool.net.au
 who.is
 widget-cdn.rpxnow.com
+wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 win10.ipv6.microsoft.com
 windows.com
