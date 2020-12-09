@@ -11,13 +11,13 @@
 [![GitHub Stars](https://img.shields.io/github/stars/neodevpro/neodevhost.svg?style=social&label=Star&maxAge=2592000)](https://github.com/neodevpro/neodevhost)<br/>
 
 ```
-Total ad / tracking block list 屏蔽追踪广告总数: 97270
+Total ad / tracking block list 屏蔽追踪广告总数: 97701
 
 Total allowlist list 允许名单总数: 1321
 
-Total combine list 结合总数： 97142
+Total combine list 结合总数： 97571
 
-Total deadblock list 失效屏蔽广告域名： 18667
+Total deadblock list 失效屏蔽广告域名： 18705
 
 Total deadallow list 失效允许广告域名： 94
 
@@ -50,7 +50,7 @@ Update 更新时间: 2020-12-09
 
 ## Download 下载
 ### Full version (With Dead Domain inside) 完整版（包含过期域名）：
-Number of Domain 域名数目： 97142
+Number of Domain 域名数目： 97571
 
 Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
 --------- |:-------------:|:-------------:|:-------------:
@@ -60,7 +60,7 @@ Dnsmasq | Dns ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost
 
 ### Lite version (Without Dead Domain inside) 精简版（不包含过期域名）：
 
-Number of Domain 域名数目： 78477
+Number of Domain 域名数目： 78934
 
 Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
 --------- |:-------------:|:-------------:|:-------------:
