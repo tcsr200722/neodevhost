@@ -142,9 +142,6 @@ b.bdstatic.com
 b.bst.126.net
 baidustatic.com
 baltimore.cbslocal.com
-bannera.kingsoft-office-service.com
-baofeng.com
-baofeng.net
 bbc.com
 bbs.archlinux.org
 bcee.lu
@@ -176,7 +173,6 @@ bing.se
 bit.ly
 bitbucket.org
 bleacherreport.com
-blocklist.kowabit.de
 blogger.com
 blogs.discovermagazine.com
 bloomberg.com
@@ -247,7 +243,6 @@ clients6.google.com
 cloud.google.com
 cloudflare.com
 cloudfront.net
-cloudservice15.kingsoft-office-service.com
 cloudservice19.kingsoft-office-service.com
 cloudservice22.kingsoft-office-service.com
 cnbc.com
@@ -308,6 +303,7 @@ delivery.vidible.tv
 dell.com
 demo-staging.jifflenow.com
 demotywatory.pl
+denis-ovs.narod.ru
 det-ta-g7g.amazon.com
 dev.twitter.com
 dev.virtualearth.net
@@ -552,6 +548,7 @@ i3.ytimg.com
 i4.ytimg.com
 i8.chinanews.com
 ib.snssdk.com
+ic.ksosoft.com
 ic.rdtuijian.com
 icanhazip.com
 ichnaea.netflix.com
@@ -665,6 +662,7 @@ light.ifmo.ru
 limtu.ifmo.ru
 link.theplatform.com
 linkedin.com
+list.video.baidu.com
 live.com
 live.net
 livefilestore.com
@@ -705,7 +703,6 @@ margevicius.lt
 market.spotify.com
 marketwatch.com
 mashable.com
-mastersim.wifi.com/h5/apply_4.html?utm_source=wifihome&utm_campaign=pc&v=12&channel=02
 maxcdn.bootstrapcdn.com
 maxthon.com
 media.licdn.com
@@ -713,6 +710,7 @@ media.sbs.com.au
 mediamarkt.at
 mediamarkt.de
 mediamarkt.es
+mediamarkt.ie
 mediamarkt.nl
 mediamarkt.pl
 mediav.com
@@ -769,10 +767,8 @@ nesn.com
 netbsd.org
 netdna.bootstrapcdn.com
 netflix.com
-newapi.shouji.baofeng.com
 newegg.com
 newjobs.com
-news.docer.com
 news.ebc.net.tw
 news.google.com
 news.op.wpscdn.cn
@@ -875,6 +871,7 @@ paper.li
 pastebin.com
 paypal.com
 paypalobjects.com
+pc.uf.ksosoft.com
 pcbrowser.dd.qq.com
 pcfg.wps.cn
 people.com
@@ -891,7 +888,6 @@ pinimg.com
 pinterest.com
 pittsburgh.cbslocal.com
 pixel.nymag.com
-pixiu.shangshufang.ksosoft.com
 pkobp.pl
 pl-pl.facebook.com
 placehold.it
@@ -913,6 +909,7 @@ plus.google.com
 pmd.cdn.turner.com
 pochta.ru
 postimage.org
+pplive.cn
 pps.tv
 ppsimg.com
 pptv.com
@@ -938,7 +935,6 @@ radiostacja.pl
 ransomwaretracker.abuse.ch
 rapidgator.net
 rapidvideo.com
-rating6.kingsoft-office-service.com
 raw.githack.com
 raw.github.com
 raw.githubusercontent.com
@@ -1005,6 +1001,7 @@ script.google.com
 sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 search.twitter.com
 sears.com
+secure.avangate.com
 secure.brightcove.com
 secure.dshield.org
 secure.logmein.com
@@ -1067,7 +1064,6 @@ star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
-stat.duokanbox.com/tvservice/reportmessage
 static.fontawesome.com
 static.kickstarter.com
 static.licdn.com
@@ -1079,6 +1075,7 @@ stats.streamelements.com
 statsfe1.ws.microsoft.com
 statsfe2.ws.microsoft.com
 status.plex.tv
+stdl.qq.com
 steamcommunity.com
 stitcher.pluto.tv
 stopklatka.pl
@@ -1246,7 +1243,6 @@ wetter.de
 whirlpool.net.au
 who.is
 widget-cdn.rpxnow.com
-wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 win10.ipv6.microsoft.com
 windows.com
@@ -1314,4 +1310,3 @@ zh.ifixit.com
 zippyshare.com
 ziprecruiter.com
 zoso.ro
-zz.m.sohu.com
