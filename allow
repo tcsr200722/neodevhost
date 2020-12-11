@@ -97,7 +97,6 @@ ap.spotify.com
 api-global.netflix.com
 api.io.mi.com
 api.ipify.org
-api.open.uc.cn
 api.pluto.tv
 api.rlje.net
 api.sbs.com.au
@@ -143,7 +142,6 @@ b.bdstatic.com
 b.bst.126.net
 baidustatic.com
 baltimore.cbslocal.com
-bannera.kingsoft-office-service.com
 bbc.com
 bbs.archlinux.org
 bcee.lu
@@ -248,7 +246,6 @@ cloudflare.com
 cloudfront.net
 cloudservice15.kingsoft-office-service.com
 cloudservice19.kingsoft-office-service.com
-cloudservice22.kingsoft-office-service.com
 cnbc.com
 cnbeta.com
 cnbetacdn.com
@@ -264,6 +261,7 @@ cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
 community.spiceworks.com
 confib.ifmo.ru
+config5.update.baofeng.com
 connect.facebook.net
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
@@ -552,7 +550,6 @@ i3.ytimg.com
 i4.ytimg.com
 i8.chinanews.com
 ib.snssdk.com
-ic.ksosoft.com
 ic.rdtuijian.com
 icanhazip.com
 ichnaea.netflix.com
@@ -772,10 +769,8 @@ nesn.com
 netbsd.org
 netdna.bootstrapcdn.com
 netflix.com
-newapi.shouji.baofeng.com
 newegg.com
 newjobs.com
-news.docer.com
 news.ebc.net.tw
 news.google.com
 news.op.wpscdn.cn
@@ -797,6 +792,7 @@ nk.pl
 no-ip.com
 node.plexapp.com
 nordvpn.com
+notify.wps.cn
 notify.xboxlive.com
 npr-news.streaming.adswizz.com
 npr.org
@@ -877,6 +873,7 @@ paper.li
 pastebin.com
 paypal.com
 paypalobjects.com
+pc.uf.ksosoft.com
 pcbrowser.dd.qq.com
 pcfg.wps.cn
 people.com
@@ -941,7 +938,6 @@ radiostacja.pl
 ransomwaretracker.abuse.ch
 rapidgator.net
 rapidvideo.com
-rating6.kingsoft-office-service.com
 raw.githack.com
 raw.github.com
 raw.githubusercontent.com
@@ -1071,7 +1067,6 @@ star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
-stat.duokanbox.com/tvservice/reportmessage
 static.fontawesome.com
 static.kickstarter.com
 static.licdn.com
