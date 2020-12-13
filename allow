@@ -87,7 +87,6 @@ amazonaws.com
 amd.cdn.turner.com
 amzn.com
 amzn.to
-analytics-union.xunlei.com
 analytics.twitter.com
 android.clients.google.com
 androidforums.com
@@ -143,7 +142,9 @@ b.bdstatic.com
 b.bst.126.net
 baidustatic.com
 baltimore.cbslocal.com
+bannera.kingsoft-office-service.com
 baofeng.com
+baofeng.net
 bbc.com
 bbs.archlinux.org
 bcee.lu
@@ -198,7 +199,6 @@ c-adash.m.taobao.com
 c.s-microsoft.com
 c.youtube.com
 cbjs.baidu.com
-cc.vidown.cn/vidown/update.php?version=2.1.4.1_v&id=34127211
 ccc-x.jd.com
 ccleaner.com
 cd.800wen.com
@@ -248,7 +248,7 @@ cloud.google.com
 cloudflare.com
 cloudfront.net
 cloudservice15.kingsoft-office-service.com
-cloudservice19.kingsoft-office-service.com
+cloudservice22.kingsoft-office-service.com
 cnbc.com
 cnbeta.com
 cnbetacdn.com
@@ -264,6 +264,7 @@ cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
 community.spiceworks.com
 confib.ifmo.ru
+config5.update.baofeng.com
 connect.facebook.net
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
@@ -552,6 +553,7 @@ i3.ytimg.com
 i4.ytimg.com
 i8.chinanews.com
 ib.snssdk.com
+ic.ksosoft.com
 ic.rdtuijian.com
 icanhazip.com
 ichnaea.netflix.com
@@ -616,7 +618,6 @@ jcpenney.com
 jdownloader.org
 jiuzhilan.com
 jobs.lifehacker.com
-jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 joemonster.org
 joewein.net
 jquery.com
@@ -699,7 +700,6 @@ malwaredomains.lehigh.edu
 malwareurls.joxeankoret.com
 manifest.auditude.com
 manifest.googlevideo.com
-map-mobile-lbsapp.cdn.bcebos.com
 maps.google.com
 maps.googleapis.com
 maps.gstatic.com
@@ -715,6 +715,7 @@ media.sbs.com.au
 mediamarkt.at
 mediamarkt.de
 mediamarkt.es
+mediamarkt.ie
 mediamarkt.nl
 mediamarkt.pl
 mediav.com
@@ -771,10 +772,8 @@ nesn.com
 netbsd.org
 netdna.bootstrapcdn.com
 netflix.com
-newapi.shouji.baofeng.com
 newegg.com
 newjobs.com
-news.docer.com
 news.ebc.net.tw
 news.google.com
 news.op.wpscdn.cn
@@ -894,6 +893,7 @@ pinimg.com
 pinterest.com
 pittsburgh.cbslocal.com
 pixel.nymag.com
+pixiu.shangshufang.ksosoft.com
 pkobp.pl
 pl-pl.facebook.com
 placehold.it
@@ -963,6 +963,7 @@ report-uri.com
 res.cloudinary.com
 resolver.msg.xiaomi.net
 resources.sbs.com.au
+right.com.cn
 rl.go2yd.com
 road.adblock.ro
 roku.com
@@ -1004,7 +1005,6 @@ scontent.xx.fbcdn.net
 screenshots.firefox.com
 scribd.com
 script.google.com
-sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 search.twitter.com
 sears.com
 secure.avangate.com
@@ -1150,7 +1150,6 @@ tracking.miui.com
 traffic.libsyn.com
 trailers.apple.com
 travel.latimes.com
-treexml.baofeng.net
 treezip.baofeng.net
 tuba.fm
 tudou.com
@@ -1172,7 +1171,6 @@ ubuntuforums.org
 unagi-na.amazon.com
 unibytes.com
 union-click.jd.com
-union.video.qq.com
 unitacs.m.taobao.com
 unix.com
 unpkg.com
@@ -1276,7 +1274,6 @@ www.google-analytics.com
 www.googleapis.com
 www.jbaobao.com
 www.lotustalk.com
-www.maibanu.com
 www.msftconnecttest.com
 www.msftncsi.com
 www.no-ip.com
