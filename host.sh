@@ -81,14 +81,6 @@ for url in `cat blocklist` ;do
     rm tmp
 done
 
-echo " "
-echo "Merge block-full..."
-for url in `cat extrablocklist` ;do
-    wget --no-check-certificate -t 1 -T 10 -O tmp $url
-    cat tmp >> tmpblockfull
-    rm tmp
-done
-
 sed -i '/#/d' tmpblock
 sed -i '/255.255.255.255/d' tmpblock
 sed -i '/ip6-/d' tmpblock
@@ -124,41 +116,6 @@ sed -i s/[[:space:]]//g tmpblock
 sort -u tmpblock > block
 rm tmpblock
 
-sed -i '/#/d' tmpblockfull
-sed -i '/255.255.255.255/d' tmpblockfull
-sed -i '/ip6-/d' tmpblockfull
-sed -i '/local/d' tmpblockfull
-sed -i '/[/d' tmpblockfull
-sed -i '/{/d' tmpblockfull
-sed -i '/]/d' tmpblockfull
-sed -i '/}/d' tmpblockfull
-sed -i '/\!/d' tmpblockfull
-sed -i 's/@@//' tmpblockfull
-sed -i 's/*//' tmpblockfull
-sed -i 's/0.0.0.0 //' tmpblockfull
-sed -i 's/0.0.0.0//' tmpblockfull
-sed -i 's/127.0.0.1 //' tmpblockfull
-sed -i 's/||//' tmpblockfull
-sed -i 's/\^adshow//' tmpblockfull
-sed -i 's/\^showAd//' tmpblockfull
-sed -i 's/\^ad//' tmpblockfull
-sed -i 's/\^tracker\^//' tmpblockfull
-sed -i 's/:443//' tmpblockfull
-sed -i 's/\^//' tmpblockfull
-sed -i 's/|//' tmpblockfull
-sed -i 's/$important//' tmpblockfull
-sed -i 's/$badfilter//' tmpblockfull
-sed -i 's/:://' tmpblockfull
-sed -i 's/:\/\///' tmpblockfull
-sed -i 's/^\.//' tmpblockfull
-sed -i 's/^\-//' tmpblockfull
-sed -i 's/:\/\///' tmpblockfull
-sed -i '/*/d' tmpblockfull
-sed -i '/^$/d' tmpblockfull
-sed -i s/[[:space:]]//g tmpblockfull
-sort -u tmpblockfull > blockfull
-rm tmpblockfull
-
 echo " "
 echo "Check Dead Block..."
 cp blockfull testblock
@@ -166,11 +123,7 @@ cp block lite_block
 wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/FusionPlmH/dead-block/master/deadblock
 sort -n lite_block deadblock deadblock | uniq -u > tmp && mv tmp tmplite_block
 sort -u tmplite_block > lite_block
-
-sort -n blockfull deadblock deadblock | uniq -u > tmp && mv tmp tmpblockfull
-sort -u tmpblockfull > blockfull
-
-rm tmplite_block tmpblockfull
+rm tmplite_block 
 
 echo " "
 echo "Merge Combine..."
@@ -186,14 +139,6 @@ sort -n lite_block allow allow | uniq -u > tmp && mv tmp tmplite_host
 sort -u tmplite_host > lite_host
 sed -i '/^$/d' lite_host
 sed -i s/[[:space:]]//g lite_host
-rm tmplite_host
-
-echo " "
-echo "Merge Combine..."
-sort -n blockfull allow allow | uniq -u > tmp && mv tmp tmpblockfull
-sort -u tmpblockfull > blockfull
-sed -i '/^$/d' blockfull
-sed -i s/[[:space:]]//g blockfull
 rm tmplite_host
 
 
@@ -213,8 +158,6 @@ sed -i 's/^/||&/' lite_adblocker
 sed -i 's/$/&^/' lite_adblocker 
 
 sed -i 's/^/0.0.0.0  &/' host
-
-sed -i 's/^/0.0.0.0  &/' blockfull
 
 sed -i 's/^/0.0.0.0  &/' lite_host
 
@@ -237,7 +180,6 @@ sed -i '24cUpdate 更新时间: '$(date "+%Y-%m-%d")'' README.md
 
 sed -i '53cNumber of Domain 域名数目： '$(wc -l host)' ' README.md
 sed -i '63cNumber of Domain 域名数目： '$(wc -l lite_host)' ' README.md
-sed -i '73cNumber of Domain 域名数目： '$(wc -l blockfull)' ' README.md
 
  
 cp title title.2
