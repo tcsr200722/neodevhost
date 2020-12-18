@@ -118,7 +118,7 @@ rm tmpblock
 
 echo " "
 echo "Check Dead Block..."
-cp blockfull testblock
+cp block testblock
 cp block lite_block
 wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/FusionPlmH/dead-block/master/deadblock
 sort -n lite_block deadblock deadblock | uniq -u > tmp && mv tmp tmplite_block
