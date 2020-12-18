@@ -70,7 +70,7 @@ Dnsmasq | Dns ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost
 
 ### Extreme version (Without Dead Domain inside) XX版（不包含过期域名）：
 
-Number of Domain 域名数目： 79008
+Number of Domain 域名数目： 534386
 
 ## How To Use 如何使用
 ```
