@@ -2,51 +2,17 @@
 
 echo " "
 echo "Clean..."
-if [ -f host ]; then
-    rm host
-fi
-if [ -f lite_host ]; then
-    rm lite_host
-fi
-if [ -f block ]; then 
-    rm block
-fi
-if [ -f lite_adblocker ]; then 
-    rm lite_adblocker
-fi
-if [ -f adblocker ]; then 
-    rm adblocker
-fi
-if [ -f lite_host_dnsmasq.conf ]; then 
-    rm lite_host_dnsmasq.conf
-fi
-if [ -f host_dnsmasq.conf ]; then 
-    rm host_dnsmasq.conf
-fi
-if [ -f deadallow ]; then 
-    rm deadallow
-fi
-if [ -f deadblock ]; then 
-    rm deadblock
-fi
-if [ -f testallow ]; then 
-    rm testallow
-fi
-if [ -f testblock ]; then 
-    rm testblock
-fi
+
+rm -f host lite_host block lite_adblocker adblocker lite_host_dnsmasq.conf host_dnsmasq.conf deadallow deadblock
 
 
 echo " "
 echo "Merge allow..."
 for url in `cat allowlist` ;do
-    wget --no-check-certificate -t 1 -T 10 -O tmp $url
-    cat tmp >> tmpallow
-    rm tmp
+    wget --no-check-certificate -t 1 -T 10 -q -O tmpallow $url
 done
 
 sed -i '/]/d' tmpallow
-sed -i '/[/d' tmpallow
 sed -i '/#/d' tmpallow
 sed -i '/\!/d' tmpallow
 sed -i 's/127.0.0.1 //' tmpallow
@@ -61,31 +27,27 @@ sed -i '/REG ^/d' tmpallow
 sed -i '/RZD/d' tmpallow
 sed -i 's/ALL ./ /g' tmpallow
 sed -i '/^$/d' tmpallow
-sed -i s/[[:space:]]//g tmpallow
+#sed -i s/[[:space:]]//g tmpallow
 sort -u tmpallow > allow
-rm tmpallow
+rm -f tmpallow
 
 echo " "
 echo "Check Dead Allow..."
-cp allow testallow
-wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/dead-allow/master/deadallow
+wget --no-check-certificate -t 1 -T 10 -q https://raw.githubusercontent.com/neodevpro/dead-allow/master/deadallow
 sort -n allow deadallow deadallow | uniq -u > tmp && mv tmp tmpallow
 sort -u tmpallow > allow
-rm tmpallow
+rm -f tmpallow
 
 echo " "
 echo "Merge block..."
 for url in `cat blocklist` ;do
-    wget --no-check-certificate -t 1 -T 10 -O tmp $url
-    cat tmp >> tmpblock
-    rm tmp
+    wget --no-check-certificate -t 1 -T 10 -q -O tmpblock $url
 done
 
 sed -i '/#/d' tmpblock
 sed -i '/255.255.255.255/d' tmpblock
 sed -i '/ip6-/d' tmpblock
 sed -i '/local/d' tmpblock
-sed -i '/[/d' tmpblock
 sed -i '/{/d' tmpblock
 sed -i '/]/d' tmpblock
 sed -i '/}/d' tmpblock
@@ -114,16 +76,15 @@ sed -i '/*/d' tmpblock
 sed -i '/^$/d' tmpblock
 sed -i s/[[:space:]]//g tmpblock
 sort -u tmpblock > block
-rm tmpblock
+rm -f tmpblock
 
 echo " "
 echo "Check Dead Block..."
-cp block testblock
 cp block lite_block
-wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/FusionPlmH/dead-block/master/deadblock
+wget --no-check-certificate -t 1 -T 10 -q https://raw.githubusercontent.com/FusionPlmH/dead-block/master/deadblock
 sort -n lite_block deadblock deadblock | uniq -u > tmp && mv tmp tmplite_block
 sort -u tmplite_block > lite_block
-rm tmplite_block 
+rm -f tmplite_block 
 
 echo " "
 echo "Merge Combine..."
@@ -131,7 +92,7 @@ sort -n block allow allow | uniq -u > tmp && mv tmp tmphost
 sort -u tmphost > host
 sed -i '/^$/d' host
 sed -i s/[[:space:]]//g host
-rm tmphost
+rm -f tmphost
 
 echo " "
 echo "Merge Combine..."
@@ -139,7 +100,7 @@ sort -n lite_block allow allow | uniq -u > tmp && mv tmp tmplite_host
 sort -u tmplite_host > lite_host
 sed -i '/^$/d' lite_host
 sed -i s/[[:space:]]//g lite_host
-rm tmplite_host
+rm -f tmplite_host
 
 
 echo " "
@@ -212,13 +173,7 @@ cat lite_adblocker >>title.3
 cat lite_host_dnsmasq.conf >>title.5
 
 
-rm -rf block
-rm -rf host
-rm -rf adblocker
-rm -rf host_dnsmasq.conf
-rm -rf lite_host
-rm -rf lite_adblocker
-rm -rf lite_host_dnsmasq.conf
+rm -f host adblocker host_dnsmasq.conf lite_host lite_adblocker lite_host_dnsmasq.conf deadallow deadblock
 
 mv title.2 host
 mv title.4 adblocker
