@@ -9,7 +9,9 @@ rm -f host lite_host block lite_adblocker adblocker lite_host_dnsmasq.conf host_
 echo " "
 echo "Merge allow..."
 for url in `cat allowlist` ;do
-    wget --no-check-certificate -t 1 -T 10 -q -O tmpallow $url
+    wget --no-check-certificate -t 1 -T 10 -O tmp $url
+    cat tmp >> tmpallow
+    rm -f tmp
 done
 
 sed -i '/]/d' tmpallow
@@ -27,7 +29,7 @@ sed -i '/REG ^/d' tmpallow
 sed -i '/RZD/d' tmpallow
 sed -i 's/ALL ./ /g' tmpallow
 sed -i '/^$/d' tmpallow
-#sed -i s/[[:space:]]//g tmpallow
+sed -i s/[[:space:]]//g tmpallow
 sort -u tmpallow > allow
 rm -f tmpallow
 
@@ -41,7 +43,9 @@ rm -f tmpallow
 echo " "
 echo "Merge block..."
 for url in `cat blocklist` ;do
-    wget --no-check-certificate -t 1 -T 10 -q -O tmpblock $url
+    wget --no-check-certificate -t 1 -T 10 -O tmp $url
+    cat tmp >> tmpblock
+    rm -f tmp
 done
 
 sed -i '/#/d' tmpblock
