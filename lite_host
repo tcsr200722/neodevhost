@@ -8,7 +8,7 @@
 #
 # Last update: 2020-12-20
 #
-# Number of blocked domains:  77454
+# Number of blocked domains:  77452
 #
 #=====================================
 0.0.0.0  0.nextyourcontent.com
@@ -9351,7 +9351,6 @@
 0.0.0.0  analytics-staging.tactilews.com
 0.0.0.0  analytics-static.ugc.bazaarvoice.com
 0.0.0.0  analytics-tracker.thescore.com
-0.0.0.0  analytics-union.xunlei.com
 0.0.0.0  analytics-wildtangent-yfdbl8gzl.stackpathdns.com
 0.0.0.0  analytics.163.com
 0.0.0.0  analytics.30m.com
@@ -47221,7 +47220,6 @@
 0.0.0.0  pixfuture2-d.openx.net
 0.0.0.0  pixiedust.buzzfeed.com
 0.0.0.0  piximedia.com
-0.0.0.0  pixiu.shangshufang.ksosoft.com
 0.0.0.0  pixiv.org
 0.0.0.0  pixon.ads-pixiv.net
 0.0.0.0  pixxur.com
