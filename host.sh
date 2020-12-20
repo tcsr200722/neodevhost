@@ -3,7 +3,7 @@
 echo " "
 echo "Clean..."
 
-rm -f host lite_host block lite_adblocker adblocker lite_host_dnsmasq.conf host_dnsmasq.conf deadallow deadblock
+rm -f host lite_host block lite_adblocker adblocker lite_host_dnsmasq.conf host_dnsmasq.conf deadallow deadblock checkblock check allow
 
 
 echo " "
@@ -35,7 +35,7 @@ rm -f tmpallow
 
 echo " "
 echo "Check Dead Allow..."
-can allow checkallow
+cp allow checkallow
 wget --no-check-certificate -t 1 -T 10 -q https://raw.githubusercontent.com/neodevpro/dead-allow/master/deadallow
 sort -n allow deadallow deadallow | uniq -u > tmp && mv tmp tmpallow
 sort -u tmpallow > allow
@@ -85,7 +85,7 @@ rm -f tmpblock
 
 echo " "
 echo "Check Dead Block..."
-can block checkblock
+cp block checkblock
 cp block lite_block
 wget --no-check-certificate -t 1 -T 10 -q https://raw.githubusercontent.com/FusionPlmH/dead-block/master/deadblock
 sort -n lite_block deadblock deadblock | uniq -u > tmp && mv tmp tmplite_block
