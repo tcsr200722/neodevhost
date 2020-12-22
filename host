@@ -8,7 +8,7 @@
 #
 # Last update: 2020-12-22
 #
-# Number of blocked domains:  97478
+# Number of blocked domains:  97460
 #
 #=====================================
 0.0.0.0  0.nextyourcontent.com
@@ -12768,7 +12768,6 @@
 0.0.0.0  api.sdk.zadn.vn
 0.0.0.0  api.sdkbox.com
 0.0.0.0  api.sec.intl.miui.com
-0.0.0.0  api.sec.miui.com
 0.0.0.0  api.segment.io
 0.0.0.0  api.sentiance.com
 0.0.0.0  api.setting.intl.miui.com
@@ -13120,7 +13119,6 @@
 0.0.0.0  app.jgyee.com
 0.0.0.0  app.jiuzhilan.com
 0.0.0.0  app.juwang.com
-0.0.0.0  app.link
 0.0.0.0  app.livemarketshoppers.com
 0.0.0.0  app.lz55.cn
 0.0.0.0  app.marketo.com
@@ -14318,7 +14316,6 @@
 0.0.0.0  audit.quantcast.mgr.consensu.org
 0.0.0.0  audit.webinform.hu
 0.0.0.0  audit8.com
-0.0.0.0  auditude.com
 0.0.0.0  audmax.pl
 0.0.0.0  audriasite.pro
 0.0.0.0  audrte.com
@@ -15737,7 +15734,6 @@
 0.0.0.0  bcbsks.com.102.112.2o7.net
 0.0.0.0  bccyyc.com
 0.0.0.0  bcdn-god.we-stats.com
-0.0.0.0  bce.baidu.com
 0.0.0.0  bcfabscdt.com
 0.0.0.0  bcfeedback.taobao.com
 0.0.0.0  bchur.com
@@ -18308,7 +18304,6 @@
 0.0.0.0  c.ecliks.com
 0.0.0.0  c.effectivemeasure.net
 0.0.0.0  c.es.msn.com
-0.0.0.0  c.evidon.com
 0.0.0.0  c.f1zd.com
 0.0.0.0  c.f5mtrack.com
 0.0.0.0  c.fi.msn.com
@@ -22414,7 +22409,6 @@
 0.0.0.0  com-upday-main.collector.snplow.net
 0.0.0.0  com-vw.netmng.com
 0.0.0.0  com-wkejf32ljd23409system.net
-0.0.0.0  com.com
 0.0.0.0  com.cool-premiums-now.com
 0.0.0.0  com.econa.com
 0.0.0.0  com.htmlwww.youfck.com
@@ -22701,7 +22695,6 @@
 0.0.0.0  consent.adincube.com
 0.0.0.0  consent.api.osano.com
 0.0.0.0  consent.berliner-kurier.de
-0.0.0.0  consent.cmp.oath.com
 0.0.0.0  consent.cookiebot.com
 0.0.0.0  consent.dk
 0.0.0.0  consent.gutefrage.net
@@ -24110,7 +24103,6 @@
 0.0.0.0  cshkgktv.com
 0.0.0.0  cshlgg.com
 0.0.0.0  cshwhy.cn
-0.0.0.0  csi.gstatic.com
 0.0.0.0  csiasvapqrccq.com
 0.0.0.0  csk.ru
 0.0.0.0  csk2014.info
@@ -33656,7 +33648,6 @@
 0.0.0.0  g.mashable.com
 0.0.0.0  g.mbm.cn.miaozhen.com
 0.0.0.0  g.mnw.cn
-0.0.0.0  g.msn.com
 0.0.0.0  g.ousns.net
 0.0.0.0  g.pgu.cc
 0.0.0.0  g.promosrv.com
@@ -36000,7 +35991,6 @@
 0.0.0.0  gsmarena.us.intellitxt.com
 0.0.0.0  gsmplay.net
 0.0.0.0  gsmtop.net
-0.0.0.0  gsp1.baidu.com
 0.0.0.0  gspro.hit.gemius.pl
 0.0.0.0  gsprzemkow.neostrada.pl
 0.0.0.0  gssgroups.com
@@ -45703,7 +45693,6 @@
 0.0.0.0  log.mappy.net
 0.0.0.0  log.mediacategory.com
 0.0.0.0  log.mix.sina.com.cn
-0.0.0.0  log.mmstat.com
 0.0.0.0  log.mobpowertech.com
 0.0.0.0  log.moji.com
 0.0.0.0  log.molitv.cn
@@ -50113,7 +50102,6 @@
 0.0.0.0  mms.wwe.com
 0.0.0.0  mmsolar.pl
 0.0.0.0  mmsshopcom.112.2o7.net
-0.0.0.0  mmstat.com
 0.0.0.0  mmszxc.top
 0.0.0.0  mmtracking.com
 0.0.0.0  mmtrkpy.com
@@ -63627,7 +63615,6 @@
 0.0.0.0  rs2.adledge.com
 0.0.0.0  rs2.ero-advertising.com
 0.0.0.0  rs2.qq.com
-0.0.0.0  rs6.net
 0.0.0.0  rsa.pub
 0.0.0.0  rsafind.co.za
 0.0.0.0  rsalcau.com
@@ -64349,7 +64336,6 @@
 0.0.0.0  s.zjhoudao.com
 0.0.0.0  s.zlongad.com
 0.0.0.0  s0-2mdn-net.l.google.com
-0.0.0.0  s0.2mdn.net
 0.0.0.0  s0.doubleclick.net
 0.0.0.0  s002.trax-ad.jp
 0.0.0.0  s01-delivery.addynamo.net
@@ -65006,7 +64992,6 @@
 0.0.0.0  sas15k01.com
 0.0.0.0  sas816.ujikdd041o.cn
 0.0.0.0  sasaniks.net
-0.0.0.0  sascdn.com
 0.0.0.0  sascentral.com
 0.0.0.0  sasdiskcleaner.com
 0.0.0.0  sasdk.3g.qq.com
@@ -68647,7 +68632,6 @@
 0.0.0.0  sp.yixui.com
 0.0.0.0  sp.yorkdispatch.com
 0.0.0.0  sp.zanesvilletimesrecorder.com
-0.0.0.0  sp1.baidu.com
 0.0.0.0  sp1cluster.cxense.com
 0.0.0.0  sp2mzc.pl
 0.0.0.0  sp3.cndm.com
@@ -72234,7 +72218,6 @@
 0.0.0.0  tantsprovisitsc.club
 0.0.0.0  tanv.com
 0.0.0.0  tanwanyx.com
-0.0.0.0  tanx.com
 0.0.0.0  tanxlog.istreamsche.com
 0.0.0.0  tanyen.ezimar.com
 0.0.0.0  tanzhen.info
@@ -75024,7 +75007,6 @@
 0.0.0.0  tracking.ehavior.net
 0.0.0.0  tracking.emsmobile.de
 0.0.0.0  tracking.engagedigitalmedia.com
-0.0.0.0  tracking.epicgames.com
 0.0.0.0  tracking.ero-advertising.com
 0.0.0.0  tracking.eurosport.com
 0.0.0.0  tracking.eurowebaffiliates.com
