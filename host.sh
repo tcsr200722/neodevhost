@@ -179,7 +179,7 @@ cat lite_adblocker >>title.3
 cat lite_host_dnsmasq.conf >>title.5
 
 
-rm -f host adblocker host_dnsmasq.conf lite_host lite_adblocker lite_host_dnsmasq.conf deadallow deadblock
+rm -f host adblocker host_dnsmasq.conf lite_host lite_adblocker lite_host_dnsmasq.conf deadallow deadblock allow
 
 mv title.2 host
 mv title.4 adblocker
