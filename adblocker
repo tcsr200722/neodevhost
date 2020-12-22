@@ -8,7 +8,7 @@
 #
 # Last update: 2020-12-22
 #
-# Number of blocked domains:  107060
+# Number of blocked domains:  107071
 #
 #=====================================
 ||0.nextyourcontent.com^
@@ -27245,7 +27245,9 @@
 ||db3aqu.atdmt.com^
 ||db4.net-filter.com^
 ||db4.sitestats.com^
+||db5-eap.settings-win.data.microsoft.com.akadns.net^
 ||db5.net-filter.com^
+||db5.settings-win.data.microsoft.com.akadns.net^
 ||db5.sitestats.com^
 ||db5.vortex.data.microsoft.com.akadns.net^
 ||db52cc91beabf7e8.com^
@@ -32417,6 +32419,7 @@
 ||eredincreaso.club^
 ||eredmights.club^
 ||eredunass.club^
+||ereg.wip3.adobe.com^
 ||ereintroductc.fun^
 ||eremedia.112.2o7.net^
 ||eren.ecoencomputer.com^
@@ -37042,6 +37045,7 @@
 ||geo.query.yahoo.com^
 ||geo.rlcdn.com^
 ||geo.safelinktracker.com^
+||geo.settings-win.data.microsoft.com.akadns.net^
 ||geo.theawesomer.com^
 ||geo.thehindu.com^
 ||geo.vortex.data.microsoft.com.akadns.net^
@@ -63964,6 +63968,7 @@
 ||pixfuture2-d.openx.net^
 ||pixiedust.buzzfeed.com^
 ||piximedia.com^
+||pixiu.shangshufang.ksosoft.com^
 ||pixiv.org^
 ||pixon.ads-pixiv.net^
 ||pixxur.com^
@@ -76143,6 +76148,7 @@
 ||ss.c.appier.net^
 ||ss.chelaile.net.cn^
 ||ss.cnczjy.com^
+||ss.cnnic.cn^
 ||ss.he9630.com^
 ||ss.hitbox.com^
 ||ss.knet.cn^
@@ -79141,6 +79147,7 @@
 ||t5lxz7dtq4iz.com^
 ||t6.51maiwanju.com^
 ||t6.a.market.xiaomi.com^
+||t6.baidu.com^
 ||t6.trackalyzer.com^
 ||t70123.com^
 ||t72.dkonto.pl^
@@ -85571,6 +85578,7 @@
 ||v.rssnzw.cn^
 ||v.rxconkz.cn^
 ||v.sixiuwl.cn^
+||v.smtcdns.net^
 ||v.sofg68.cn^
 ||v.ssacdn.com^
 ||v.sssgbw.cn^
@@ -92071,6 +92079,7 @@
 ||www.bitoptionfx.com^
 ||www.bitraffic.com^
 ||www.bitsends.space^
+||www.bitsumactivationserver.com^
 ||www.bittersweetparis.com^
 ||www.bitworldfx.com^
 ||www.biurogt.info^
@@ -92760,6 +92769,7 @@
 ||www.cnetdirectintl.com^
 ||www.cney.cc^
 ||www.cnn.cm^
+||www.cnnic.net^
 ||www.cnnnew.com^
 ||www.cnstats.com^
 ||www.cnzz.com^
@@ -104804,6 +104814,7 @@
 ||y.xinghao89.com^
 ||y.zeroredirect.com^
 ||y.zp22.cn^
+||y0.cn^
 ||y0.extreme-dm.com^
 ||y0o1g.cn^
 ||y1.extreme-dm.com^
