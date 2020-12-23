@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2020-12-22
+# Last update: 2020-12-23
 #
-# Number of blocked domains:  115251
+# Number of blocked domains:  115263
 #
 #=====================================
 0.0.0.0  0.nextyourcontent.com
@@ -17742,6 +17742,7 @@
 0.0.0.0  bashenghuo.com
 0.0.0.0  bashirian.biz
 0.0.0.0  basiakurier.top
+0.0.0.0  basicapp.online
 0.0.0.0  basicstat.com
 0.0.0.0  basiekurier.org
 0.0.0.0  basildonstandard-gb.basildonstandard.co.uk
@@ -18871,6 +18872,7 @@
 0.0.0.0  bidgear.com
 0.0.0.0  bidhead.net
 0.0.0.0  bidi-geo.mythings.com
+0.0.0.0  bidio.pl
 0.0.0.0  bidiology.com
 0.0.0.0  bidphysics.com
 0.0.0.0  bidr.io
@@ -19682,7 +19684,6 @@
 0.0.0.0  bobo.163.com
 0.0.0.0  bobo.com
 0.0.0.0  bobo.corp.163.com
-0.0.0.0  bobo.xmwty.com
 0.0.0.0  bobopstryk.pl
 0.0.0.0  bobotune.com
 0.0.0.0  bobrilla.com
@@ -23528,7 +23529,6 @@
 0.0.0.0  cfrfa.112.2o7.net
 0.0.0.0  cfs.u-ad.info
 0.0.0.0  cfs.uzone.id
-0.0.0.0  cfs1.uzone.id
 0.0.0.0  cfs2.uzone.id
 0.0.0.0  cfsdtzggpcmr.com
 0.0.0.0  cftervwhu.com
@@ -25595,6 +25595,7 @@
 0.0.0.0  codemylife.info
 0.0.0.0  codenow.cn
 0.0.0.0  codeonclick.com
+0.0.0.0  codeopensource.online
 0.0.0.0  codeotel.com
 0.0.0.0  coderexception.com
 0.0.0.0  coderturk.com
@@ -28226,6 +28227,7 @@
 0.0.0.0  cxense.com
 0.0.0.0  cxense.com.edgekey.net
 0.0.0.0  cxfzw.cn
+0.0.0.0  cxgh.net
 0.0.0.0  cxhtodgorrq.com
 0.0.0.0  cxjrsb.com
 0.0.0.0  cxlm.net.cn
@@ -35894,6 +35896,7 @@
 0.0.0.0  events.cid.samba.tv
 0.0.0.0  events.data.microsoft.com
 0.0.0.0  events.demoup.com
+0.0.0.0  events.emogi.com
 0.0.0.0  events.engageya.com
 0.0.0.0  events.foreseeresults.com
 0.0.0.0  events.guesttoguest.com
@@ -41878,6 +41881,7 @@
 0.0.0.0  gramombird.com
 0.0.0.0  gramovi.info
 0.0.0.0  grampouz.net
+0.0.0.0  gramscien.xyz
 0.0.0.0  gramsoakton.casa
 0.0.0.0  grand-prise-ishere2.life
 0.0.0.0  grand-prix.cityads.com
@@ -43381,6 +43385,7 @@
 0.0.0.0  hequentsevent.club
 0.0.0.0  her-ber.top
 0.0.0.0  heraclitotattoostudio.com
+0.0.0.0  herald.loginside.co.kr
 0.0.0.0  heraldintimidatestipulate.com
 0.0.0.0  heraldscotland-gb.heraldscotland.com
 0.0.0.0  heraldseries-gb.heraldseries.co.uk
@@ -47229,6 +47234,7 @@
 0.0.0.0  ingenioustech.biz
 0.0.0.0  ingest.crittercism.com
 0.0.0.0  ingest.m2appmonitor.com
+0.0.0.0  ingest.sentry.io
 0.0.0.0  ingest.vungle.akadns.net
 0.0.0.0  ingest.vungle.com
 0.0.0.0  ingoinghitchstick.com
@@ -49310,6 +49316,7 @@
 0.0.0.0  jiudiandyw.com
 0.0.0.0  jiudianhudong.com
 0.0.0.0  jiuduad.com
+0.0.0.0  jiuhui878.com
 0.0.0.0  jiujhzp.com
 0.0.0.0  jiujiuguiyi.she456.com
 0.0.0.0  jiujiushishi.com
@@ -49583,7 +49590,6 @@
 0.0.0.0  joorejou.net
 0.0.0.0  jopd.ru
 0.0.0.0  joplionnsld.xyz
-0.0.0.0  jor-el.net
 0.0.0.0  jordenmadsen.com
 0.0.0.0  joredi.com
 0.0.0.0  joredii.com
@@ -54002,6 +54008,7 @@
 0.0.0.0  log.nuomi.com
 0.0.0.0  log.nvwa.baofeng.com
 0.0.0.0  log.o2o.service.zaloapp.com
+0.0.0.0  log.ohmynews.com
 0.0.0.0  log.olark.com
 0.0.0.0  log.opentracker.net
 0.0.0.0  log.optimizely.com
@@ -54089,6 +54096,7 @@
 0.0.0.0  log.zingtv.vn
 0.0.0.0  log.zongheng.com
 0.0.0.0  log000.goo.ne.jp
+0.0.0.0  log002.commutil.kr
 0.0.0.0  log1.17173.com
 0.0.0.0  log1.24liveplus.com
 0.0.0.0  log1.adsplay.net
@@ -54824,7 +54832,6 @@
 0.0.0.0  luksona.popunder.ru
 0.0.0.0  lulpolopolo.com
 0.0.0.0  lulrtvfcy.com
-0.0.0.0  lulu.dian500.com.cn
 0.0.0.0  lulukan.qyhxhnt.com
 0.0.0.0  lululemonoutlets5online.info
 0.0.0.0  lululo.pl
@@ -62984,6 +62991,7 @@
 0.0.0.0  nichools.com
 0.0.0.0  nickarini.com
 0.0.0.0  nickde.oewabox.at
+0.0.0.0  nickeeha.net
 0.0.0.0  nickhel.com
 0.0.0.0  nickleplatedads.com
 0.0.0.0  nicmitosasm.top
@@ -77283,6 +77291,7 @@
 0.0.0.0  sakura-traffic.com
 0.0.0.0  sakura.goguardian.com
 0.0.0.0  sakuraboxs.com
+0.0.0.0  sakuraquant.com
 0.0.0.0  sakuraset.top
 0.0.0.0  sal.isanook.com
 0.0.0.0  sal4m649fke3.com
@@ -95768,6 +95777,7 @@
 0.0.0.0  weheartit.com
 0.0.0.0  wehoysp.cn
 0.0.0.0  wei.8586635.com
+0.0.0.0  weidehuagong.com
 0.0.0.0  weidianyuedu.com
 0.0.0.0  weifengtianxia.com
 0.0.0.0  weight-loss.1.p2l.info
@@ -96597,6 +96607,7 @@
 0.0.0.0  wl963.com
 0.0.0.0  wla.vivaldi.com
 0.0.0.0  wlad-el3am.j8inn1zektoe.com
+0.0.0.0  wlaoc.cn
 0.0.0.0  wlaph4nlrn63.l.adsco.re
 0.0.0.0  wlaptoplogic.122.2o7.net
 0.0.0.0  wlb1.ads.stickyadstv.com.akadns.net
@@ -111957,6 +111968,7 @@
 0.0.0.0  xlfhttdeordzp.com
 0.0.0.0  xlftcc.com
 0.0.0.0  xlgqy.com
+0.0.0.0  xlgtblj.cn
 0.0.0.0  xlhm88.cn
 0.0.0.0  xliansheng.com
 0.0.0.0  xlingdi.com
