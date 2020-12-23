@@ -5,7 +5,6 @@ echo "Clean..."
 
 rm -f host lite_host block lite_adblocker adblocker lite_host_dnsmasq.conf host_dnsmasq.conf deadallow deadblock checkblock check allow
 
-
 echo " "
 echo "Merge allow..."
 for url in `cat allowlist` ;do
@@ -108,7 +107,6 @@ sed -i '/^$/d' lite_host
 sed -i s/[[:space:]]//g lite_host
 rm -f tmplite_host
 
-
 echo " "
 echo "Adding Compatibility..."
 
@@ -169,7 +167,6 @@ cp title title.5
 sed -i '9c# Last update: '$(date "+%Y-%m-%d")'' title.5
 sed -i '11c# Number of blocked domains:  '$(wc -l lite_host_dnsmasq.conf)' ' title.5  
 
-
 cat host >>title.2
 cat adblocker >>title.4
 cat host_dnsmasq.conf >>title.6
@@ -177,7 +174,6 @@ cat host_dnsmasq.conf >>title.6
 cat lite_host >>title.1
 cat lite_adblocker >>title.3
 cat lite_host_dnsmasq.conf >>title.5
-
 
 rm -f host adblocker host_dnsmasq.conf lite_host lite_adblocker lite_host_dnsmasq.conf deadallow deadblock allow lite_block block
 
