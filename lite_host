@@ -8,7 +8,7 @@
 #
 # Last update: 2020-12-25
 #
-# Number of blocked domains:  86416
+# Number of blocked domains:  86414
 #
 #=====================================
 0.0.0.0  0.nextyourcontent.com
@@ -9179,7 +9179,6 @@
 0.0.0.0  agentinteractive.com
 0.0.0.0  agg.inquisitr.com
 0.0.0.0  agg.lifedaily.com
-0.0.0.0  aggnr.groovesharks.org
 0.0.0.0  aggravedgaree.info
 0.0.0.0  aggregateknowledge.com
 0.0.0.0  aggregator.inquisitr.com
@@ -20265,7 +20264,7 @@
 0.0.0.0  cntdy.mobi
 0.0.0.0  cntingyun.com
 0.0.0.0  cntj.zj.dcys.ijinshan.com
-0.0.0.0  cntr.lookmovie.ag
+0.0.0.0  cntr.lookmovie.io
 0.0.0.0  cntrafficpro.com
 0.0.0.0  cntv.wrating.com
 0.0.0.0  cntvxymwesggem.com
@@ -55997,8 +55996,6 @@
 0.0.0.0  rapsubs.popunder.ru
 0.0.0.0  rapt.com
 0.0.0.0  raqrhomcbhrzvl.com
-0.0.0.0  rarbgunblock.com
-0.0.0.0  rarbgunblocked.org
 0.0.0.0  rarceresearch.fun
 0.0.0.0  rareru.ru
 0.0.0.0  raresummer.com
@@ -86096,6 +86093,7 @@
 0.0.0.0  zobaczktopodgladaa.blogspot.com
 0.0.0.0  zoda.ru
 0.0.0.0  zodiakactive.com
+0.0.0.0  zoepb.cn
 0.0.0.0  zoeysqyx.com
 0.0.0.0  zofia-f.com
 0.0.0.0  zofia-f.shop
