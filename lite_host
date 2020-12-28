@@ -8,7 +8,7 @@
 #
 # Last update: 2020-12-28
 #
-# Number of blocked domains:  86374
+# Number of blocked domains:  86373
 #
 #=====================================
 0.0.0.0  0.nextyourcontent.com
@@ -54856,7 +54856,6 @@
 0.0.0.0  push.zdworks.com
 0.0.0.0  push.zhangyue.com
 0.0.0.0  push.zhanzhang.baidu.com
-0.0.0.0  push2.eastmoney.com
 0.0.0.0  push2.yoads.net
 0.0.0.0  push2check.com
 0.0.0.0  push4site.com
