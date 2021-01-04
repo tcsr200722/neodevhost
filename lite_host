@@ -8,7 +8,7 @@
 #
 # Last update: 2021-01-04
 #
-# Number of blocked domains:  86433
+# Number of blocked domains:  86437
 #
 #=====================================
 0.0.0.0  0.nextyourcontent.com
@@ -13796,7 +13796,6 @@
 0.0.0.0  banner1.pornhost.com
 0.0.0.0  banner10.zetasystem.dk
 0.0.0.0  banner2.casino.com
-0.0.0.0  bannera.kingsoft-office-service.com
 0.0.0.0  bannerads.co.in
 0.0.0.0  bannerads.de
 0.0.0.0  bannerbank.ru
@@ -29733,6 +29732,7 @@
 0.0.0.0  firebid.pl
 0.0.0.0  firecash.org
 0.0.0.0  firecpa.com
+0.0.0.0  firefang.cn
 0.0.0.0  firefeeder.com
 0.0.0.0  firefightersanta.org
 0.0.0.0  fireflyengagement.com
@@ -29771,6 +29771,7 @@
 0.0.0.0  fishadz.pressflex.net
 0.0.0.0  fishclix.com
 0.0.0.0  fisher56.com
+0.0.0.0  fishhoo.com
 0.0.0.0  fishkekcamp.info
 0.0.0.0  fistcartyped.casa
 0.0.0.0  fit-buzz.com
@@ -30002,6 +30003,7 @@
 0.0.0.0  flushafterwardinteger.com
 0.0.0.0  flux.faloo.com
 0.0.0.0  flux16.com
+0.0.0.0  fluxads.com
 0.0.0.0  flv.dotmore.com.tw
 0.0.0.0  flvs7ql3l6.com
 0.0.0.0  flw.ero-advertising.com
@@ -30077,7 +30079,6 @@
 0.0.0.0  foazasis.com
 0.0.0.0  focalex.com
 0.0.0.0  focas.jp
-0.0.0.0  focus.mangoads.vn
 0.0.0.0  focusbaiduafp.allyes.com
 0.0.0.0  focuscat.com
 0.0.0.0  focuscoat.com
@@ -30110,6 +30111,7 @@
 0.0.0.0  fontainsuny.club
 0.0.0.0  fontawfully.com
 0.0.0.0  fontoshirek.info
+0.0.0.0  fontostudni.club
 0.0.0.0  foo.cosmocode.de
 0.0.0.0  food-offer.com
 0.0.0.0  food-voucher.com
@@ -30325,8 +30327,6 @@
 0.0.0.0  fp.measure.office.com
 0.0.0.0  fp.nanrenwo.net
 0.0.0.0  fp.tongdun.net
-0.0.0.0  fp.uclo.net
-0.0.0.0  fp1.qdyinglida.com
 0.0.0.0  fp3.ads.stickyadstv.com.akadns.net
 0.0.0.0  fpa-events.arstechnica.com
 0.0.0.0  fpa.ero-advertising.com
@@ -30478,8 +30478,11 @@
 0.0.0.0  freeexchange.ru
 0.0.0.0  freefillmonline.blogspot.com
 0.0.0.0  freefollower.eu
+0.0.0.0  freefoodsource.com
 0.0.0.0  freeforums.org
 0.0.0.0  freeforumsorg.skimlinks.com
+0.0.0.0  freefuelcard.com
+0.0.0.0  freefuelcoupon.com
 0.0.0.0  freegayporn.biz
 0.0.0.0  freegeoip.app
 0.0.0.0  freegeoip.net
@@ -30503,6 +30506,7 @@
 0.0.0.0  freementgd.club
 0.0.0.0  freeminecraft.cc
 0.0.0.0  freeminecraftgiftcode.net
+0.0.0.0  freenation.com
 0.0.0.0  freenetflix.wex.pl
 0.0.0.0  freenew.net
 0.0.0.0  freeonlineusers.com
@@ -30658,6 +30662,7 @@
 0.0.0.0  fstaw.com
 0.0.0.0  fstrk.net
 0.0.0.0  fsvulvfqg.com
+0.0.0.0  fswinrje.com
 0.0.0.0  fswxw.cn
 0.0.0.0  fsxkporoe.com
 0.0.0.0  fsyzcs.com
@@ -30775,6 +30780,7 @@
 0.0.0.0  funnelchair.com
 0.0.0.0  funneld.com
 0.0.0.0  funnyairplane.com
+0.0.0.0  funnyfotobox.pl
 0.0.0.0  funsilly.com
 0.0.0.0  funskan.pl
 0.0.0.0  funsolo.net
@@ -30802,7 +30808,6 @@
 0.0.0.0  fusion-iad-dev-clogs-eqbrmmvphc.elasticbeanstalk.com
 0.0.0.0  fusion.adtoma.com
 0.0.0.0  fusion.bonniertidskrifter.se
-0.0.0.0  fusion.qq.com
 0.0.0.0  fusion.sydsvenskan.se
 0.0.0.0  fusionads.net
 0.0.0.0  fusionfiresolutions.com
@@ -30842,6 +30847,7 @@
 0.0.0.0  fuyigo.top
 0.0.0.0  fuyuap.xyz
 0.0.0.0  fuz.cc
+0.0.0.0  fuzausb.top
 0.0.0.0  fuzeclick.offerstrack.net
 0.0.0.0  fuziontech.net
 0.0.0.0  fuzzybasketball.com
@@ -30928,11 +30934,11 @@
 0.0.0.0  fzwoa.com
 0.0.0.0  fzxrjx.com
 0.0.0.0  g--o.info
-0.0.0.0  g-cash.biz
 0.0.0.0  g-content.bid
 0.0.0.0  g-mailpoczta.pl
 0.0.0.0  g-pixel.invitemedia.com
 0.0.0.0  g-statistic.com
+0.0.0.0  g-stats.openhost.es
 0.0.0.0  g.3gl.net
 0.0.0.0  g.6sfg.com
 0.0.0.0  g.ad8.cc
@@ -30981,6 +30987,7 @@
 0.0.0.0  g.letaojuan68.com
 0.0.0.0  g.lznews.cn
 0.0.0.0  g.mashable.com
+0.0.0.0  g.mnw.cn
 0.0.0.0  g.msn.com
 0.0.0.0  g.newss.pw
 0.0.0.0  g.ousns.net
@@ -31167,6 +31174,7 @@
 0.0.0.0  galeria-swiatla.pl
 0.0.0.0  galeria-zuromin.pl
 0.0.0.0  galeriapn.pl
+0.0.0.0  galeriaseroticas.xpg.com.br
 0.0.0.0  galeriaweb.pl
 0.0.0.0  galiowen.com
 0.0.0.0  galkama.info
@@ -31315,7 +31323,6 @@
 0.0.0.0  gasurvey.gemius.com
 0.0.0.0  gasxf.com
 0.0.0.0  gata.ero-advertising.com
-0.0.0.0  gate.hyperpaysys.com
 0.0.0.0  gateguardian.usesfathom.com
 0.0.0.0  gatehousemedia.122.2o7.net
 0.0.0.0  gatesrichestbusts.com
@@ -31364,6 +31371,7 @@
 0.0.0.0  gazetamazowsze.eu
 0.0.0.0  gazetapolska.org.pl
 0.0.0.0  gazetapucka.pl
+0.0.0.0  gazetasasiedzka.eu
 0.0.0.0  gazetawyborcza.com.pl
 0.0.0.0  gazetawyborcza24.eu
 0.0.0.0  gazetkamazowsze.pl
@@ -31505,9 +31513,11 @@
 0.0.0.0  gdeslon.ru
 0.0.0.0  gdfc0563.com
 0.0.0.0  gdfp.ksapisrv.com
+0.0.0.0  gdgy56.com
 0.0.0.0  gdh4szx.appspot.com
 0.0.0.0  gdicoou.com
 0.0.0.0  gdl5vtbbv0lj.com
+0.0.0.0  gdlbdzkj.com
 0.0.0.0  gdlvbiaokeji.cn
 0.0.0.0  gdm1.toner.fr
 0.0.0.0  gdmconvtrck.com
@@ -31665,6 +31675,7 @@
 0.0.0.0  geo.nbcsports.com
 0.0.0.0  geo.ngtv.io
 0.0.0.0  geo.offermatica.com
+0.0.0.0  geo.q5media.net
 0.0.0.0  geo.qualaroo.com
 0.0.0.0  geo.query.yahoo.com
 0.0.0.0  geo.rlcdn.com
@@ -31895,7 +31906,6 @@
 0.0.0.0  geusihivdqkwzf.com
 0.0.0.0  gewrrpygsd.biz
 0.0.0.0  gexlwn.com
-0.0.0.0  gez.io
 0.0.0.0  gezaehlt.de
 0.0.0.0  gezinti.com
 0.0.0.0  gf.umenglog.com
@@ -52570,6 +52580,7 @@
 0.0.0.0  pixfuture2-d.openx.net
 0.0.0.0  pixiedust.buzzfeed.com
 0.0.0.0  piximedia.com
+0.0.0.0  pixiu.shangshufang.ksosoft.com
 0.0.0.0  pixiv.org
 0.0.0.0  pixon.ads-pixiv.net
 0.0.0.0  pixxur.com
@@ -85178,10 +85189,12 @@
 0.0.0.0  youxicool.net
 0.0.0.0  youxitui.net
 0.0.0.0  youxjia.com
+0.0.0.0  youyicsyy.com
 0.0.0.0  youyiggg.com
 0.0.0.0  youyijia021.com
 0.0.0.0  youyou.ezimar.com
 0.0.0.0  youyoumw.com
+0.0.0.0  youzu.com
 0.0.0.0  yovoads.com
 0.0.0.0  yowlcapkegs.com
 0.0.0.0  yoyi.com.cn
@@ -85289,6 +85302,7 @@
 0.0.0.0  yuanqitu.com
 0.0.0.0  yuanyanglw.com
 0.0.0.0  yuarra.pluto.ro
+0.0.0.0  yucefa.cn
 0.0.0.0  yudexjr.com
 0.0.0.0  yudu.co.nz
 0.0.0.0  yuebofa.cc
@@ -85319,6 +85333,7 @@
 0.0.0.0  yummymobile.pl
 0.0.0.0  yun-pdm2000.cn
 0.0.0.0  yun-pdm5000.cn
+0.0.0.0  yun-static.soperson.com
 0.0.0.0  yun.lvehaisen.com
 0.0.0.0  yun.rili.cn
 0.0.0.0  yun.sifuhe.cn
@@ -85438,6 +85453,7 @@
 0.0.0.0  yzdcb.xyz
 0.0.0.0  yzexonvknhw.com
 0.0.0.0  yzfbank.com
+0.0.0.0  yzftqx.cn
 0.0.0.0  yzjlsb.com
 0.0.0.0  yzmiwdjviuzk.com
 0.0.0.0  yzus09by.com
@@ -85497,6 +85513,7 @@
 0.0.0.0  z3dmbpl6309s.com
 0.0.0.0  z4.cnzz.com
 0.0.0.0  z444o.com
+0.0.0.0  z4yp9a.qygs08.cn
 0.0.0.0  z5.cnzz.com
 0.0.0.0  z501lpfg9x8v.com
 0.0.0.0  z5of63.cn
@@ -85535,10 +85552,7 @@
 0.0.0.0  zag.112.2o7.net
 0.0.0.0  zag.122.2o7.net
 0.0.0.0  zaglebiefanatykow.pl
-0.0.0.0  zaglosuj-dzisiaj.eu
-0.0.0.0  zaglosuj-kliknij.eu
 0.0.0.0  zaglosuj-warszawa.vot.pl
-0.0.0.0  zaglosuje-pomoc.eu
 0.0.0.0  zaglosuje-wybieraj.eu
 0.0.0.0  zaglosujmy-wsparcia.eu
 0.0.0.0  zagner.pl
@@ -85551,7 +85565,6 @@
 0.0.0.0  zajazduzenka.pl
 0.0.0.0  zajonc.de
 0.0.0.0  zakladka.org.ua
-0.0.0.0  zakup-olx.pl
 0.0.0.0  zalbani.is-best.net
 0.0.0.0  zalo-ads-240-td.zadn.vn
 0.0.0.0  zalo-ads-240.zadn.vn
@@ -85607,7 +85620,6 @@
 0.0.0.0  zanox-affiliate.de
 0.0.0.0  zanox.com
 0.0.0.0  zantainet.com
-0.0.0.0  zantori65.com
 0.0.0.0  zantracker.com
 0.0.0.0  zaoyx.jrchiji.cn
 0.0.0.0  zap.buzz
@@ -85681,7 +85693,6 @@
 0.0.0.0  zcand.com
 0.0.0.0  zcbyoqylllxe.com
 0.0.0.0  zcchbviygqkke.com
-0.0.0.0  zcdsp.com
 0.0.0.0  zcjrjnxgukfcy.com
 0.0.0.0  zcjvqfbl1toyemvm.pro
 0.0.0.0  zcl-js.com
@@ -85721,6 +85732,7 @@
 0.0.0.0  zdsyifistjlag.com
 0.0.0.0  zdtag.com
 0.0.0.0  zdukhhodnglp.com
+0.0.0.0  zdw.w8.com.cn
 0.0.0.0  ze.zeroredirect1.com
 0.0.0.0  ze.zeroredirect2.com
 0.0.0.0  ze1.zeroredirect1.com
@@ -85788,7 +85800,6 @@
 0.0.0.0  zerolullaby.com
 0.0.0.0  zeronaught.com
 0.0.0.0  zeropark.com
-0.0.0.0  zeroredirect.com
 0.0.0.0  zeroredirect1.com
 0.0.0.0  zeroredirect11.com
 0.0.0.0  zeroredirect12.com
@@ -85813,7 +85824,6 @@
 0.0.0.0  zeuuwb.com
 0.0.0.0  zevent.brand.zing.vn
 0.0.0.0  zevents.com
-0.0.0.0  zevert55.com
 0.0.0.0  zewkj.com
 0.0.0.0  zexastize.pro
 0.0.0.0  zezvty.com
@@ -85851,11 +85861,11 @@
 0.0.0.0  zgmwrjlxpb.com
 0.0.0.0  zgody.infor.pl
 0.0.0.0  zgrsq.cn
+0.0.0.0  zgsdk.zhugeio.com
 0.0.0.0  zgsxhx.com
 0.0.0.0  zgtcar.com
 0.0.0.0  zgunion.cn
 0.0.0.0  zgvvx.com
-0.0.0.0  zgwalconadziewczyna.eu
 0.0.0.0  zgwlbjy.cn
 0.0.0.0  zgxrht.com
 0.0.0.0  zgyiyi.com
@@ -85870,7 +85880,6 @@
 0.0.0.0  zh1144.com
 0.0.0.0  zhads.com
 0.0.0.0  zhaibei112.top
-0.0.0.0  zhandi.cc
 0.0.0.0  zhangguangzong.com
 0.0.0.0  zhangkc.com
 0.0.0.0  zhangranfilm.com
@@ -85910,7 +85919,6 @@
 0.0.0.0  zhixd.cn
 0.0.0.0  zhixiuchang.com
 0.0.0.0  zhiyaspa.com
-0.0.0.0  zhizi.qq.com
 0.0.0.0  zhiziyun.com
 0.0.0.0  zhizones.com
 0.0.0.0  zhjfad.com
@@ -85963,7 +85971,6 @@
 0.0.0.0  zidedge.com
 0.0.0.0  zidtqsrzosud.com
 0.0.0.0  zielonewariacje.pl
-0.0.0.0  zielony-bazarek.pl
 0.0.0.0  zieltracker.de
 0.0.0.0  ziffdavis-d.openx.net
 0.0.0.0  ziffdavis.com
@@ -86032,9 +86039,9 @@
 0.0.0.0  zjllvkfa.com
 0.0.0.0  zjo0tjqpm1.com
 0.0.0.0  zjqymhsk.com
+0.0.0.0  zjrtuhds.top
 0.0.0.0  zjsyawqj.cn
 0.0.0.0  zjuwjdc.com
-0.0.0.0  zjvnet.allyes.com
 0.0.0.0  zk.91post.com
 0.0.0.0  zk.zeroredirect1.com
 0.0.0.0  zkba9.cn
@@ -86058,6 +86065,7 @@
 0.0.0.0  zlog.zingmp3.vn
 0.0.0.0  zlongad.com
 0.0.0.0  zlp6s.pw
+0.0.0.0  zls.xz6d.com
 0.0.0.0  zlsvr3xybeh4.com
 0.0.0.0  zlx.com.br
 0.0.0.0  zm1.zeroredirect5.com
@@ -86301,7 +86309,6 @@
 0.0.0.0  zumodi.com
 0.0.0.0  zunmi.cn
 0.0.0.0  zunsoach.com
-0.0.0.0  zunss.com
 0.0.0.0  zuopp.com
 0.0.0.0  zuowen.hydcd.com
 0.0.0.0  zupaskarbow.pl
@@ -86326,7 +86333,6 @@
 0.0.0.0  zvsuhljiha-a.akamaihd.net
 0.0.0.0  zvtbdwziyxh.com
 0.0.0.0  zvxncxzgihb.com
-0.0.0.0  zw578376khsds.com.ng
 0.0.0.0  zwaar.org
 0.0.0.0  zwenhan.com
 0.0.0.0  zweryfikujmojekontoowa.moonfruit.com
@@ -86362,7 +86368,6 @@
 0.0.0.0  zxptw.cn
 0.0.0.0  zxpyzc.cn
 0.0.0.0  zxr.fzxrjx.com
-0.0.0.0  zxryytzesvn.com
 0.0.0.0  zxsddfs.pro
 0.0.0.0  zxsmxt.com
 0.0.0.0  zxw51.com
@@ -86416,7 +86421,6 @@
 0.0.0.0  zzcw.uuzham.com
 0.0.0.0  zzd6.com
 0.0.0.0  zzdb5p4upiug.com
-0.0.0.0  zzhc.vnet.cn
 0.0.0.0  zzhengre.com
 0.0.0.0  zzhszj.com
 0.0.0.0  zzimg.51.la
