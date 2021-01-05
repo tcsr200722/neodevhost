@@ -8,7 +8,7 @@
 #
 # Last update: 2021-01-05
 #
-# Number of blocked domains:  86516
+# Number of blocked domains:  86531
 #
 #=====================================
 0.0.0.0  0.nextyourcontent.com
@@ -51650,6 +51650,7 @@
 0.0.0.0  pc.mobad.ijinshan.com
 0.0.0.0  pc.sborscweuu.cn
 0.0.0.0  pc.tunnel-vision.info
+0.0.0.0  pc.uf.ksosoft.com
 0.0.0.0  pc.videoclick.baidu.com
 0.0.0.0  pc.yingshi.tcclick.1kxun.mobi
 0.0.0.0  pc031-edgup.ads.tremorhub.com
@@ -71517,6 +71518,7 @@
 0.0.0.0  vcxz.pl
 0.0.0.0  vd.7vid.net
 0.0.0.0  vd.emp.prd.s3.amazonaws.com
+0.0.0.0  vd.l.qq.com
 0.0.0.0  vda.oipzyrzffum.ovh
 0.0.0.0  vdapp.nend.net
 0.0.0.0  vdax.uuzu.com
@@ -85158,7 +85160,6 @@
 0.0.0.0  yongkang6.com
 0.0.0.0  yongv.com
 0.0.0.0  yongyuelm.com
-0.0.0.0  yoobest.cn
 0.0.0.0  yoochoose.net
 0.0.0.0  yooclick.com
 0.0.0.0  yooli.com
@@ -85234,7 +85235,6 @@
 0.0.0.0  yourdatelink.com
 0.0.0.0  yourfitway.com
 0.0.0.0  yourfreshposts.com
-0.0.0.0  yourgascards.com
 0.0.0.0  yourgiftrewards.com
 0.0.0.0  yourgiftzone.com
 0.0.0.0  yourhandytips.com
@@ -85273,6 +85273,7 @@
 0.0.0.0  youxicool.net
 0.0.0.0  youxitui.net
 0.0.0.0  youxjia.com
+0.0.0.0  youyicsyy.com
 0.0.0.0  youyiggg.com
 0.0.0.0  youyijia021.com
 0.0.0.0  youyou.ezimar.com
@@ -85318,7 +85319,6 @@
 0.0.0.0  yrivoste.com
 0.0.0.0  yrkdsp.112.2o7.net
 0.0.0.0  yrkeve.112.2o7.net
-0.0.0.0  yrrsckr.cn
 0.0.0.0  yrsfs.com
 0.0.0.0  yrwap.cn
 0.0.0.0  ys.da.mgtv.com
@@ -85407,6 +85407,7 @@
 0.0.0.0  yule.sohu.com
 0.0.0.0  yule12888.com
 0.0.0.0  yule8.net
+0.0.0.0  yum.anydesk.me
 0.0.0.0  yumcs.xiaohuau.xyz
 0.0.0.0  yume.com
 0.0.0.0  yumenetworks.com
@@ -85490,6 +85491,7 @@
 0.0.0.0  yx4449.com
 0.0.0.0  yxbzsdthw.com
 0.0.0.0  yxcpm.com
+0.0.0.0  yxdyk.com
 0.0.0.0  yxfxhkbrwzww.com
 0.0.0.0  yxgfcj.com
 0.0.0.0  yxhxs.com
@@ -85531,6 +85533,7 @@
 0.0.0.0  yyy6999.com
 0.0.0.0  yyywwbpkf.com
 0.0.0.0  yzaosite.com
+0.0.0.0  yzdcb.xyz
 0.0.0.0  yzexonvknhw.com
 0.0.0.0  yzfbank.com
 0.0.0.0  yzftqx.cn
@@ -85616,6 +85619,7 @@
 0.0.0.0  zabashop.pl
 0.0.0.0  zabavazaodrasle.com
 0.0.0.0  zabawlandia.pl
+0.0.0.0  zabawyogrodowe.com
 0.0.0.0  zabbix.bidgear.com
 0.0.0.0  zabbix.symanteprotection.com
 0.0.0.0  zabiczyn.pl
@@ -85772,6 +85776,7 @@
 0.0.0.0  zcand.com
 0.0.0.0  zcbyoqylllxe.com
 0.0.0.0  zcchbviygqkke.com
+0.0.0.0  zcdsp.com
 0.0.0.0  zcjrjnxgukfcy.com
 0.0.0.0  zcjvqfbl1toyemvm.pro
 0.0.0.0  zcl-js.com
@@ -85788,7 +85793,6 @@
 0.0.0.0  zd.zeroredirect1.com
 0.0.0.0  zd.zeroredirect2.com
 0.0.0.0  zd1.zeroredirect1.com
-0.0.0.0  zd1.zeroredirect6.com
 0.0.0.0  zd6789.com
 0.0.0.0  zdads.e-media.com
 0.0.0.0  zdaj-to.pl
@@ -85797,7 +85801,9 @@
 0.0.0.0  zdbb.net
 0.0.0.0  zdbb.netshelter.net
 0.0.0.0  zddxlih.com
+0.0.0.0  zdjecia-fotki.pl
 0.0.0.0  zdjecie-facebook-zdj3425jeio.dkonto.pl
+0.0.0.0  zdjecie-fotka.pl
 0.0.0.0  zdjecieciownia.net
 0.0.0.0  zdjecienago2.c.pl
 0.0.0.0  zdnet.be.intellitxt.com
@@ -85877,6 +85883,7 @@
 0.0.0.0  zerolullaby.com
 0.0.0.0  zeronaught.com
 0.0.0.0  zeropark.com
+0.0.0.0  zeroredirect.com
 0.0.0.0  zeroredirect1.com
 0.0.0.0  zeroredirect11.com
 0.0.0.0  zeroredirect12.com
@@ -85901,6 +85908,7 @@
 0.0.0.0  zeuuwb.com
 0.0.0.0  zevent.brand.zing.vn
 0.0.0.0  zevents.com
+0.0.0.0  zevert55.com
 0.0.0.0  zewkj.com
 0.0.0.0  zexastize.pro
 0.0.0.0  zezvty.com
@@ -85937,7 +85945,6 @@
 0.0.0.0  zgktxx.com
 0.0.0.0  zgmwrjlxpb.com
 0.0.0.0  zgody.infor.pl
-0.0.0.0  zgrsq.cn
 0.0.0.0  zgsdk.zhugeio.com
 0.0.0.0  zgsxhx.com
 0.0.0.0  zgtcar.com
@@ -85954,7 +85961,9 @@
 0.0.0.0  zh.tiredduck.com
 0.0.0.0  zh.yomobi.net
 0.0.0.0  zh1.zeroredirect11.com
+0.0.0.0  zh1144.com
 0.0.0.0  zhads.com
+0.0.0.0  zhaibei112.top
 0.0.0.0  zhandi.cc
 0.0.0.0  zhangguangzong.com
 0.0.0.0  zhangkc.com
@@ -85995,6 +86004,7 @@
 0.0.0.0  zhixd.cn
 0.0.0.0  zhixiuchang.com
 0.0.0.0  zhiyaspa.com
+0.0.0.0  zhizi.qq.com
 0.0.0.0  zhiziyun.com
 0.0.0.0  zhizones.com
 0.0.0.0  zhjfad.com
@@ -86048,6 +86058,7 @@
 0.0.0.0  zidedge.com
 0.0.0.0  zidtqsrzosud.com
 0.0.0.0  zielonewariacje.pl
+0.0.0.0  zielony-bazarek.pl
 0.0.0.0  zieltracker.de
 0.0.0.0  ziffdavis-d.openx.net
 0.0.0.0  ziffdavis.com
@@ -86059,6 +86070,7 @@
 0.0.0.0  ziffdavisglobal.112.2o7.net
 0.0.0.0  ziffdavispennyarcade.112.2o7.net
 0.0.0.0  zifjgjddpy.com
+0.0.0.0  ziig.com.cn
 0.0.0.0  zijaipse.com
 0.0.0.0  zim-zim-zam.com
 0.0.0.0  zimowewyzwanie.pl
@@ -86115,6 +86127,7 @@
 0.0.0.0  zjllvkfa.com
 0.0.0.0  zjo0tjqpm1.com
 0.0.0.0  zjqymhsk.com
+0.0.0.0  zjrtuhds.top
 0.0.0.0  zjsyawqj.cn
 0.0.0.0  zjuwjdc.com
 0.0.0.0  zjvnet.allyes.com
@@ -86238,7 +86251,6 @@
 0.0.0.0  zootoplist.com
 0.0.0.0  zootravel.com
 0.0.0.0  zop381q5o0q1.com
-0.0.0.0  zopeynxv.top
 0.0.0.0  zoplm.com
 0.0.0.0  zorango.com
 0.0.0.0  zorganizowanie-sie.eu
@@ -86352,6 +86364,7 @@
 0.0.0.0  zszzarnow.pl
 0.0.0.0  zt2088.com
 0.0.0.0  ztcadx.com
+0.0.0.0  ztd.szkdst.com
 0.0.0.0  ztdsp.com
 0.0.0.0  zteikg.com
 0.0.0.0  ztevents.zaloapp.com
@@ -86386,6 +86399,7 @@
 0.0.0.0  zumodi.com
 0.0.0.0  zunmi.cn
 0.0.0.0  zunsoach.com
+0.0.0.0  zunss.com
 0.0.0.0  zuopp.com
 0.0.0.0  zuowen.hydcd.com
 0.0.0.0  zupaskarbow.pl
@@ -86410,6 +86424,7 @@
 0.0.0.0  zvsuhljiha-a.akamaihd.net
 0.0.0.0  zvtbdwziyxh.com
 0.0.0.0  zvxncxzgihb.com
+0.0.0.0  zw578376khsds.com.ng
 0.0.0.0  zwaar.org
 0.0.0.0  zwenhan.com
 0.0.0.0  zweryfikujmojekontoowa.moonfruit.com
