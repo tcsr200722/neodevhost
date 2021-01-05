@@ -8,7 +8,7 @@
 #
 # Last update: 2021-01-05
 #
-# Number of blocked domains:  86531
+# Number of blocked domains:  86528
 #
 #=====================================
 0.0.0.0  0.nextyourcontent.com
@@ -11341,7 +11341,6 @@
 0.0.0.0  api.intensifier.de
 0.0.0.0  api.intentiq.com
 0.0.0.0  api.inwemo.com
-0.0.0.0  api.io.mi.com
 0.0.0.0  api.iperceptions.com
 0.0.0.0  api.ipinfodb.com
 0.0.0.0  api.ipstack.com
@@ -27839,7 +27838,6 @@
 0.0.0.0  err.agava.ru
 0.0.0.0  err.ifengcloud.ifeng.com
 0.0.0.0  err.izooto.com
-0.0.0.0  err.taobao.com
 0.0.0.0  erraticreaction.com
 0.0.0.0  errdoc.gabia.net
 0.0.0.0  errlog.umeng.com
@@ -34560,6 +34558,7 @@
 0.0.0.0  hmecfqhj.com
 0.0.0.0  hmhaliyikama.com
 0.0.0.0  hmlifekoltuk.com
+0.0.0.0  hmma.baidu.com
 0.0.0.0  hmnjf.com
 0.0.0.0  hmongcash.com
 0.0.0.0  hmonstabb.fun
@@ -35743,7 +35742,6 @@
 0.0.0.0  ibza.romsenergy.com
 0.0.0.0  ic-live.com
 0.0.0.0  ic.aliyune.xyz
-0.0.0.0  ic.ksosoft.com
 0.0.0.0  ic.snssdk.com
 0.0.0.0  ic.tynt.com
 0.0.0.0  ic.wps.cn
@@ -51642,6 +51640,7 @@
 0.0.0.0  pc.mobad.ijinshan.com
 0.0.0.0  pc.sborscweuu.cn
 0.0.0.0  pc.tunnel-vision.info
+0.0.0.0  pc.uf.ksosoft.com
 0.0.0.0  pc.videoclick.baidu.com
 0.0.0.0  pc.yingshi.tcclick.1kxun.mobi
 0.0.0.0  pc031-edgup.ads.tremorhub.com
@@ -53553,7 +53552,6 @@
 0.0.0.0  post.rmbn.net
 0.0.0.0  post.rmbn.ru
 0.0.0.0  post.securestudies.com
-0.0.0.0  post.spmailtechno.com
 0.0.0.0  post.update.fbsbx.com
 0.0.0.0  post.voiceads.cn
 0.0.0.0  post1.voiceads.cn
@@ -64263,7 +64261,6 @@
 0.0.0.0  stc.oa.zalo.me
 0.0.0.0  stc.store.page.zaloapp.com
 0.0.0.0  stcounter.com
-0.0.0.0  stdl.qq.com
 0.0.0.0  stdst.cn
 0.0.0.0  steadfastsound.com
 0.0.0.0  steadfastsystem.com
