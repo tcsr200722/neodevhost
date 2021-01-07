@@ -8,7 +8,7 @@
 #
 # Last update: 2021-01-07
 #
-# Number of blocked domains:  86512
+# Number of blocked domains:  86486
 #
 #=====================================
 0.0.0.0  0.nextyourcontent.com
@@ -56070,7 +56070,6 @@
 0.0.0.0  ratilis.com
 0.0.0.0  rating-widget.com
 0.0.0.0  rating.in
-0.0.0.0  rating6.kingsoft-office-service.com
 0.0.0.0  ratings.lycos.com
 0.0.0.0  ratingtoplist.com
 0.0.0.0  rationalan.pro
@@ -66551,7 +66550,6 @@
 0.0.0.0  test.88582.com
 0.0.0.0  test.ad.xiaomi.com
 0.0.0.0  test.adsp.xunlei.com
-0.0.0.0  test.api.xlmc.sandai.net
 0.0.0.0  test.ark.letv.com
 0.0.0.0  test.besstidniki.ru
 0.0.0.0  test.coremetrics.com
@@ -79188,6 +79186,7 @@
 0.0.0.0  www.linkev.com
 0.0.0.0  www.linkfame.com
 0.0.0.0  www.linkhut.com
+0.0.0.0  www.linkjg.cn
 0.0.0.0  www.linkkoin.com
 0.0.0.0  www.linkpay.cc
 0.0.0.0  www.linkpay.top
@@ -79281,7 +79280,6 @@
 0.0.0.0  www.lovemydress.pl
 0.0.0.0  www.loverlywigs.com
 0.0.0.0  www.lovesickchild.blogspot.com
-0.0.0.0  www.lovewrittenbyheart.blogspot.com
 0.0.0.0  www.lowcyokazji.site
 0.0.0.0  www.lowisko-podolsze.pl
 0.0.0.0  www.lowiskowoliczno.pl
@@ -79289,7 +79287,6 @@
 0.0.0.0  www.lp-wip.pl
 0.0.0.0  www.lpcloudsvr302.com
 0.0.0.0  www.lpmxp2017.com
-0.0.0.0  www.lpmxp2021.com
 0.0.0.0  www.lpmxp2024.com
 0.0.0.0  www.lpmxp2025.com
 0.0.0.0  www.lpmxp2026.com
@@ -79336,11 +79333,9 @@
 0.0.0.0  www.mabanque-bnpparibas-ref-31-fr.web.app
 0.0.0.0  www.mabanque-bnpparibas-ref-34-fr.web.app
 0.0.0.0  www.maceju.com
-0.0.0.0  www.macheaper.top
 0.0.0.0  www.madagascaroasis.org
 0.0.0.0  www.madeinprl.pl
 0.0.0.0  www.madhouse.cn
-0.0.0.0  www.magadownloader.com
 0.0.0.0  www.magellen.com
 0.0.0.0  www.magento-analytics.com
 0.0.0.0  www.magicpockets.shop
@@ -79352,8 +79347,8 @@
 0.0.0.0  www.mainadv.com
 0.0.0.0  www.mainteck-fr.com
 0.0.0.0  www.maipinshangmao.com
-0.0.0.0  www.mairuan.cn
-0.0.0.0  www.mairuan.com
+0.0.0.0  www.mairuan.com.cn
+0.0.0.0  www.mairuan.net
 0.0.0.0  www.mairuanwang.com
 0.0.0.0  www.majus-centrum.pl
 0.0.0.0  www.makanaliabadian.ir
@@ -79395,6 +79390,7 @@
 0.0.0.0  www.markbruinink.nl
 0.0.0.0  www.market-buster.com
 0.0.0.0  www.marketcfd.com
+0.0.0.0  www.marketplace-olx.pl
 0.0.0.0  www.marketpluse.com
 0.0.0.0  www.marketpremium.pl
 0.0.0.0  www.marketrip.co
@@ -79413,15 +79409,9 @@
 0.0.0.0  www.masterspace.biz
 0.0.0.0  www.mastertradeinvestments.com
 0.0.0.0  www.mata.ero-advertising.com
-0.0.0.0  www.matchmyip.com
-0.0.0.0  www.matfi.pl
-0.0.0.0  www.mathenea.com
 0.0.0.0  www.mathtype.cn
 0.0.0.0  www.matisport.strefa.pl
 0.0.0.0  www.matkotymoja.pl
-0.0.0.0  www.maureenkile.com
-0.0.0.0  www.mavericktradegroup.pl
-0.0.0.0  www.mavio-kredyty.pl
 0.0.0.0  www.mavoj.pl
 0.0.0.0  www.max-host.pl
 0.0.0.0  www.maxbounty.com
@@ -79433,13 +79423,10 @@
 0.0.0.0  www.maymaychihai.com
 0.0.0.0  www.mayonez.pl
 0.0.0.0  www.mazowskagazeta.eu
-0.0.0.0  www.mazowskagazeta.pl
 0.0.0.0  www.mazowszejednorozec.pl
-0.0.0.0  www.mazurpawel.pl
 0.0.0.0  www.mb01.com
 0.0.0.0  www.mb102.com
 0.0.0.0  www.mb57.com
-0.0.0.0  www.mbai.cn
 0.0.0.0  www.mbbsmedicalcollege.com
 0.0.0.0  www.mckm11.cba.pl
 0.0.0.0  www.mclick.mobi
@@ -79480,6 +79467,7 @@
 0.0.0.0  www.medtecchina.com
 0.0.0.0  www.medycyna-naturalna24.com
 0.0.0.0  www.medycznapolska.pl
+0.0.0.0  www.meetcheap.pl
 0.0.0.0  www.meetic-partners.com
 0.0.0.0  www.mega-gry.com
 0.0.0.0  www.megabizvibes.com
@@ -79505,7 +79493,6 @@
 0.0.0.0  www.merryholidays.org
 0.0.0.0  www.mesohair.pl
 0.0.0.0  www.metaankieta.pl
-0.0.0.0  www.metacount.com
 0.0.0.0  www.metalroofinggiants.com
 0.0.0.0  www.metaltechnics.pl
 0.0.0.0  www.metavertising.com
@@ -79514,6 +79501,7 @@
 0.0.0.0  www.mezczyzna-trendy.pl
 0.0.0.0  www.mfevr.com
 0.0.0.0  www.mfjegjqb.com
+0.0.0.0  www.mg58.com
 0.0.0.0  www.mgid.com
 0.0.0.0  www.mgrallygroup.pl
 0.0.0.0  www.mhradio.org
@@ -79532,8 +79520,6 @@
 0.0.0.0  www.miejscedlastudenta.pl
 0.0.0.0  www.miejskapolka.pl
 0.0.0.0  www.mientayweb.com
-0.0.0.0  www.mieszkania-pokoje-wynajem.pl
-0.0.0.0  www.migawkastudio.pl
 0.0.0.0  www.migdalowachata.pl
 0.0.0.0  www.migdtqq.com
 0.0.0.0  www.mightymagoo.com
@@ -79548,8 +79534,6 @@
 0.0.0.0  www.militanttra.at
 0.0.0.0  www.milkfountain.com
 0.0.0.0  www.millennialmedia.com
-0.0.0.0  www.millson-recruitment.pl
-0.0.0.0  www.millwardbrownacsr.com
 0.0.0.0  www.milobrowns-company.com
 0.0.0.0  www.mindmanager.cc
 0.0.0.0  www.minero-proxy-01.now.sh
@@ -79575,6 +79559,7 @@
 0.0.0.0  www.mktrack.com
 0.0.0.0  www.mkzmudzki.pl
 0.0.0.0  www.mlinkj.cn
+0.0.0.0  www.mlinkjg.cn
 0.0.0.0  www.mlnbike.com
 0.0.0.0  www.mlntracker.com
 0.0.0.0  www.mlrodasepneus.com.br
@@ -79596,9 +79581,7 @@
 0.0.0.0  www.mobiapp-games.com
 0.0.0.0  www.mobicpi.com
 0.0.0.0  www.mobid.cn
-0.0.0.0  www.mobila.pl
 0.0.0.0  www.mobilanie.pl
-0.0.0.0  www.mobile-app-market-here5.life
 0.0.0.0  www.mobile-redirection.com
 0.0.0.0  www.mobileads.ero-advertising.com
 0.0.0.0  www.mobileaps.co
@@ -79612,11 +79595,10 @@
 0.0.0.0  www.mobjmp.com
 0.0.0.0  www.mobsfun.com
 0.0.0.0  www.mobstarr.com
+0.0.0.0  www.mobstarter.com
 0.0.0.0  www.mobverify.com
 0.0.0.0  www.mochibot.com
 0.0.0.0  www.mocnastawka.blogspot.com
-0.0.0.0  www.modamart.pl
-0.0.0.0  www.modello.co.il
 0.0.0.0  www.modeloi7nove.cf
 0.0.0.0  www.modulepush.com
 0.0.0.0  www.modwebpro.pl
@@ -79624,12 +79606,10 @@
 0.0.0.0  www.mojadietanamase.pl
 0.0.0.0  www.mojahistoriashiro.blogspot.com
 0.0.0.0  www.mojalala.com.pl
-0.0.0.0  www.moje-miasto.you2.pl
 0.0.0.0  www.moje69.pl
 0.0.0.0  www.mojekobe.is-best.net
 0.0.0.0  www.mojekumpele.blogspot.com
 0.0.0.0  www.mojemiasto.dkonto.pl
-0.0.0.0  www.mojemiasto24.you2.pl
 0.0.0.0  www.mojetestery.pl
 0.0.0.0  www.mojeweselicho.za.pl
 0.0.0.0  www.mojfetysz.pl
@@ -79637,7 +79617,6 @@
 0.0.0.0  www.mokpkovaj-kok.xyz
 0.0.0.0  www.mollycoddlesoap.com
 0.0.0.0  www.mollynaples.blogspot.com
-0.0.0.0  www.momode.net
 0.0.0.0  www.momoxxio.com
 0.0.0.0  www.mona-mono.blogspot.com
 0.0.0.0  www.mondayblog.pl
@@ -79670,6 +79649,7 @@
 0.0.0.0  www.motleydreams.blogspot.com
 0.0.0.0  www.moto-agro.pl
 0.0.0.0  www.motoeast.pl
+0.0.0.0  www.motoren.ru
 0.0.0.0  www.motyw-fb.blogspot.com
 0.0.0.0  www.mountainhotel.it
 0.0.0.0  www.movieads.ero-advertising.com
@@ -79688,7 +79668,6 @@
 0.0.0.0  www.mp8883.com
 0.0.0.0  www.mpression.net
 0.0.0.0  www.mpush.cn
-0.0.0.0  www.mrelko.com
 0.0.0.0  www.mrgugu.com
 0.0.0.0  www.mrskin.com
 0.0.0.0  www.ms-gatewayapp.com
@@ -79730,6 +79709,7 @@
 0.0.0.0  www.myaffiliateprogram.com
 0.0.0.0  www.mybb.ero-advertising.com
 0.0.0.0  www.mycashback.co.uk
+0.0.0.0  www.mychoicerewards.com
 0.0.0.0  www.mycleanmymac.com
 0.0.0.0  www.mycleanpc.com
 0.0.0.0  www.mycleanpc.tk
@@ -79752,11 +79732,9 @@
 0.0.0.0  www.mypagerank.net
 0.0.0.0  www.myroitracking.com
 0.0.0.0  www.myroomdesign.pl
-0.0.0.0  www.mysearch-engine.com
 0.0.0.0  www.mysearch.com
 0.0.0.0  www.myseostats.com
 0.0.0.0  www.mysexdating247.club
-0.0.0.0  www.myshopmarketim.com
 0.0.0.0  www.mytotalsearch.com
 0.0.0.0  www.mytraf.info
 0.0.0.0  www.mytraffic.pl
@@ -79767,6 +79745,7 @@
 0.0.0.0  www.mywot.net
 0.0.0.0  www.mz30.cn
 0.0.0.0  www.n-mobile.net
+0.0.0.0  www.n0q.cn
 0.0.0.0  www.na47.com
 0.0.0.0  www.nabardzkiej.pl
 0.0.0.0  www.nabazarze.pl
@@ -79853,6 +79832,7 @@
 0.0.0.0  www.nbryb.com
 0.0.0.0  www.nbsklepbuty.com
 0.0.0.0  www.nbvzcawgwa9a.com
+0.0.0.0  www.ncoyqc.com
 0.0.0.0  www.nctracking.com
 0.0.0.0  www.ndparking.com
 0.0.0.0  www.nearbyad.com
@@ -79912,6 +79892,7 @@
 0.0.0.0  www.news.you2.pl
 0.0.0.0  www.news24zoom.com
 0.0.0.0  www.news48.dkonto.pl
+0.0.0.0  www.news6health.com
 0.0.0.0  www.newsinteria.you2.pl
 0.0.0.0  www.newsleter.you2.pl
 0.0.0.0  www.newsy-ben24.ml
@@ -79949,6 +79930,7 @@
 0.0.0.0  www.nkscdn.com
 0.0.0.0  www.nl1.ero-advertising.com
 0.0.0.0  www.nl2.ero-advertising.com
+0.0.0.0  www.nlzq888.com
 0.0.0.0  www.nners.ero-advertising.com
 0.0.0.0  www.noatanice.com
 0.0.0.0  www.nobrain.dk
@@ -79962,6 +79944,7 @@
 0.0.0.0  www.noova-po.com
 0.0.0.0  www.noowho.com
 0.0.0.0  www.noozy-led.com
+0.0.0.0  www.northfacepl.com
 0.0.0.0  www.northfacewyprzedaz.com
 0.0.0.0  www.norton.pl
 0.0.0.0  www.nospartenaires.com
@@ -80019,7 +80002,6 @@
 0.0.0.0  www.o2news.you2.pl
 0.0.0.0  www.oainternet.com
 0.0.0.0  www.oata.ero-advertising.com
-0.0.0.0  www.ob47.com
 0.0.0.0  www.obeyter.com
 0.0.0.0  www.objawytarczycy.com.pl
 0.0.0.0  www.objectopoly.info
@@ -80045,11 +80027,9 @@
 0.0.0.0  www.oderkaopole.pl
 0.0.0.0  www.odessa.com.pl
 0.0.0.0  www.odevo.pl
-0.0.0.0  www.odj4s702.web.app
 0.0.0.0  www.odkazinpost.net
 0.0.0.0  www.odkryjfb.pl
 0.0.0.0  www.odzyskajsnapy.blogspot.com
-0.0.0.0  www.oferta-pay.net
 0.0.0.0  www.oferta.tech
 0.0.0.0  www.oferty-dnia.com
 0.0.0.0  www.ofertypremium.pl
@@ -80087,8 +80067,6 @@
 0.0.0.0  www.oglosznie-elektroniczne.store
 0.0.0.0  www.oglosznie-elektroniczne.tech
 0.0.0.0  www.ogrod24.slgo.pl
-0.0.0.0  www.ogrodexmilicz.pl
-0.0.0.0  www.ohchat.net
 0.0.0.0  www.ohiomm.com
 0.0.0.0  www.oiwjcsh001.top
 0.0.0.0  www.oiwjcsh011.top
@@ -80098,6 +80076,7 @@
 0.0.0.0  www.ojolink.fr
 0.0.0.0  www.ojrq.net
 0.0.0.0  www.ok365.com
+0.0.0.0  www.ok89okl.com
 0.0.0.0  www.okaleczenie15laatkii.blogspot.com
 0.0.0.0  www.okaleczon15-lattka.blogspot.com
 0.0.0.0  www.okaleczona15--latka.blogspot.com
@@ -80148,7 +80127,6 @@
 0.0.0.0  www.olx-messenger.com
 0.0.0.0  www.olx-money.pl
 0.0.0.0  www.olx-n.pl
-0.0.0.0  www.olx-oferta.digital
 0.0.0.0  www.olx-oferta.me
 0.0.0.0  www.olx-ogloszenie.dkonto.pl
 0.0.0.0  www.olx-oil.pl
@@ -80161,6 +80139,7 @@
 0.0.0.0  www.olx-pl.info
 0.0.0.0  www.olx-pl.pay-secure.com.ru
 0.0.0.0  www.olx-pln.eu
+0.0.0.0  www.olx-poland.pl
 0.0.0.0  www.olx-polands.com
 0.0.0.0  www.olx-polska.com
 0.0.0.0  www.olx-potwierdzenie.xyz
@@ -80218,9 +80197,8 @@
 0.0.0.0  www.olx.pl-przesylka.live
 0.0.0.0  www.olx.pl.dostawa.website
 0.0.0.0  www.olx.pl.dostawy-online.info
-0.0.0.0  www.olx.pl.dostawy-pay.site
 0.0.0.0  www.olx.pl.id-48134138.com
-0.0.0.0  www.olx.pl.oferto.org
+0.0.0.0  www.olx.pl.platnosci.info
 0.0.0.0  www.olx.przesylk.biz
 0.0.0.0  www.olx.przesylk.com
 0.0.0.0  www.olx.przesylk.info
@@ -80327,6 +80305,7 @@
 0.0.0.0  www.opendownloadmanager.com
 0.0.0.0  www.openinternetexchange.com
 0.0.0.0  www.openload.de
+0.0.0.0  www.openscotland.pl
 0.0.0.0  www.openwire.tv
 0.0.0.0  www.openwrt.com
 0.0.0.0  www.operator-gsm.pl
@@ -80396,7 +80375,6 @@
 0.0.0.0  www.overcreative.com
 0.0.0.0  www.overturechina.com
 0.0.0.0  www.owdominikana.pl
-0.0.0.0  www.owueis.com
 0.0.0.0  www.oxword.pl
 0.0.0.0  www.oz-offers.com
 0.0.0.0  www.ozdobyswiateczne.net
@@ -80462,7 +80440,6 @@
 0.0.0.0  www.parentelement.tk
 0.0.0.0  www.paribas-biznesplanet-logowanie.com
 0.0.0.0  www.paribas-logowanie.at
-0.0.0.0  www.parkhiker.com
 0.0.0.0  www.parkietyszczecin.pl
 0.0.0.0  www.parkingairport.com.pl
 0.0.0.0  www.parkingcrew.net
@@ -80537,7 +80514,6 @@
 0.0.0.0  www.perfumyitestery.pl
 0.0.0.0  www.permissionresearch.com
 0.0.0.0  www.persgroepadvertising.nl
-0.0.0.0  www.persianstat.com
 0.0.0.0  www.perspektywa2012.za.pl
 0.0.0.0  www.peterjack.pl
 0.0.0.0  www.petrenko.biz
@@ -80552,7 +80528,6 @@
 0.0.0.0  www.phonejapan.com
 0.0.0.0  www.phonesecure.mobi
 0.0.0.0  www.phorm.com
-0.0.0.0  www.photo-ads.co.uk
 0.0.0.0  www.photohub.vot.pl
 0.0.0.0  www.photozoomchina.com
 0.0.0.0  www.phpmyadmin.ads.ero-advertising.com
@@ -80579,6 +80554,7 @@
 0.0.0.0  www.pinkies.pl
 0.0.0.0  www.pinkstar.pl
 0.0.0.0  www.pintour.com
+0.0.0.0  www.pinzhitmall.com
 0.0.0.0  www.piosenkapozytywna.pl
 0.0.0.0  www.piotrdzieciolowski.pl
 0.0.0.0  www.piotrprzewozy.pl
@@ -80595,12 +80571,11 @@
 0.0.0.0  www.pixeltrack66.com
 0.0.0.0  www.pizzaeuforia.com
 0.0.0.0  www.pizzarewal.pl
-0.0.0.0  www.pj38330.bet
 0.0.0.0  www.pj39330.bet
 0.0.0.0  www.pj39330.com
-0.0.0.0  www.pj5189.com
 0.0.0.0  www.pj550077.com
 0.0.0.0  www.pj88.net
+0.0.0.0  www.pjbjzf.com
 0.0.0.0  www.pkaudi.pl
 0.0.0.0  www.pkgame.cba.pl
 0.0.0.0  www.pko-bp.pl
@@ -80670,7 +80645,6 @@
 0.0.0.0  www.pluspromocje.pl
 0.0.0.0  www.plwash.pl
 0.0.0.0  www.plytanagrillapl.com
-0.0.0.0  www.pmlingua.strefa.pl
 0.0.0.0  www.pn36.cn
 0.0.0.0  www.po.fyybox.com
 0.0.0.0  www.pobieracz.com.pl
@@ -80715,6 +80689,7 @@
 0.0.0.0  www.pol-news24.pl
 0.0.0.0  www.polaczenie.xn.pl
 0.0.0.0  www.polaki.shop
+0.0.0.0  www.poland.fizzyslim.biz
 0.0.0.0  www.polandinline.com
 0.0.0.0  www.polenboeller-deutschland.com
 0.0.0.0  www.polic.you2.pl
@@ -80745,7 +80720,6 @@
 0.0.0.0  www.polska24poszukiwani.dkonto.pl
 0.0.0.0  www.polskabieda.com
 0.0.0.0  www.polskainfo.co.pl
-0.0.0.0  www.polskapaczka24.net
 0.0.0.0  www.polskapolicja.you2.pl
 0.0.0.0  www.polskapolicja24.pl.d214wh.d2.cz
 0.0.0.0  www.polskaporwania.eu
@@ -80879,7 +80853,6 @@
 0.0.0.0  www.premiumproductsonline.com
 0.0.0.0  www.presidency.site
 0.0.0.0  www.presidioinvestmentsltd.com
-0.0.0.0  www.pressurespot.com
 0.0.0.0  www.prestasicash.com.ar
 0.0.0.0  www.prezent-kumplowi.eu
 0.0.0.0  www.priiceline.com
@@ -80905,7 +80878,6 @@
 0.0.0.0  www.prjslxhtx005.top
 0.0.0.0  www.prjslxhtx006.top
 0.0.0.0  www.prjslxhtx007.top
-0.0.0.0  www.prjslxhtx008.top
 0.0.0.0  www.prjslxhtx009.top
 0.0.0.0  www.prjslxhtx010.top
 0.0.0.0  www.pro-partners.nl
@@ -80925,7 +80897,6 @@
 0.0.0.0  www.proficredit.pl
 0.0.0.0  www.profit-trader.net
 0.0.0.0  www.profitgems.co
-0.0.0.0  www.profitmaximizer.co
 0.0.0.0  www.profitmaximum.pl
 0.0.0.0  www.profitrevolution.live
 0.0.0.0  www.profitsitesbiz.com
@@ -80942,6 +80913,7 @@
 0.0.0.0  www.projektinspiracja.pl
 0.0.0.0  www.prokino.pl
 0.0.0.0  www.prolapseman.com
+0.0.0.0  www.promeblemania.pl
 0.0.0.0  www.promo.buzzclicks.com
 0.0.0.0  www.promo.com.au
 0.0.0.0  www.promobenef.com
@@ -85050,7 +85022,6 @@
 0.0.0.0  yldr.io
 0.0.0.0  ylflwbj.cn
 0.0.0.0  ylihbkbiefgj.com
-0.0.0.0  yljiaoluo.com
 0.0.0.0  yljmeishi.cn
 0.0.0.0  ylkkp.com
 0.0.0.0  ylkqw.com
@@ -85130,6 +85101,7 @@
 0.0.0.0  yoda.cybereps.com
 0.0.0.0  yodleeinc.tt.omtrdc.net
 0.0.0.0  yodr.net
+0.0.0.0  yofoto.ltd
 0.0.0.0  yogar2ti8nf09.com
 0.0.0.0  yogascaldhighjack.com
 0.0.0.0  yogasuma.care
@@ -85224,7 +85196,6 @@
 0.0.0.0  yourdatelink.com
 0.0.0.0  yourfitway.com
 0.0.0.0  yourfreshposts.com
-0.0.0.0  yourgascards.com
 0.0.0.0  yourgiftrewards.com
 0.0.0.0  yourgiftzone.com
 0.0.0.0  yourhandytips.com
@@ -85323,6 +85294,7 @@
 0.0.0.0  ysb76.com
 0.0.0.0  yscci.com
 0.0.0.0  ysdk.qq.com
+0.0.0.0  ysej.code.weddingeeos.com
 0.0.0.0  ysensionlatio.space
 0.0.0.0  ysgsq.cn
 0.0.0.0  ysjweb.com
@@ -85526,6 +85498,7 @@
 0.0.0.0  yzdcb.xyz
 0.0.0.0  yzexonvknhw.com
 0.0.0.0  yzfbank.com
+0.0.0.0  yzftqx.cn
 0.0.0.0  yzjlsb.com
 0.0.0.0  yzkzixun.com
 0.0.0.0  yzmiwdjviuzk.com
@@ -85583,6 +85556,7 @@
 0.0.0.0  z3dmbpl6309s.com
 0.0.0.0  z4.cnzz.com
 0.0.0.0  z444o.com
+0.0.0.0  z4yp9a.qygs08.cn
 0.0.0.0  z5.cnzz.com
 0.0.0.0  z501lpfg9x8v.com
 0.0.0.0  z5of63.cn
@@ -85606,6 +85580,7 @@
 0.0.0.0  zabashop.pl
 0.0.0.0  zabavazaodrasle.com
 0.0.0.0  zabawlandia.pl
+0.0.0.0  zabawyogrodowe.com
 0.0.0.0  zabbix.bidgear.com
 0.0.0.0  zabbix.symanteprotection.com
 0.0.0.0  zabiczyn.pl
@@ -85620,7 +85595,6 @@
 0.0.0.0  zag.112.2o7.net
 0.0.0.0  zag.122.2o7.net
 0.0.0.0  zaglebiefanatykow.pl
-0.0.0.0  zaglosuj-dzisiaj.eu
 0.0.0.0  zaglosuj-warszawa.vot.pl
 0.0.0.0  zaglosuje-wybieraj.eu
 0.0.0.0  zaglosujmy-wsparcia.eu
@@ -85633,6 +85607,7 @@
 0.0.0.0  zajazduzenka.pl
 0.0.0.0  zajonc.de
 0.0.0.0  zakladka.org.ua
+0.0.0.0  zakup-olx.pl
 0.0.0.0  zalbani.is-best.net
 0.0.0.0  zalo-ads-240-td.zadn.vn
 0.0.0.0  zalo-ads-240.zadn.vn
@@ -85689,7 +85664,6 @@
 0.0.0.0  zanox.com
 0.0.0.0  zantainet.com
 0.0.0.0  zantracker.com
-0.0.0.0  zaoyx.jrchiji.cn
 0.0.0.0  zap.buzz
 0.0.0.0  zap588693-1.plesk10.zap-webspace.com
 0.0.0.0  zapachymarzen.pl
@@ -85786,9 +85760,7 @@
 0.0.0.0  zdbb.net
 0.0.0.0  zdbb.netshelter.net
 0.0.0.0  zddxlih.com
-0.0.0.0  zdjecia-fotki.pl
 0.0.0.0  zdjecie-facebook-zdj3425jeio.dkonto.pl
-0.0.0.0  zdjecie-fotka.pl
 0.0.0.0  zdjecieciownia.net
 0.0.0.0  zdjecienago2.c.pl
 0.0.0.0  zdnet.be.intellitxt.com
@@ -85893,6 +85865,7 @@
 0.0.0.0  zeuuwb.com
 0.0.0.0  zevent.brand.zing.vn
 0.0.0.0  zevents.com
+0.0.0.0  zevert55.com
 0.0.0.0  zewkj.com
 0.0.0.0  zexastize.pro
 0.0.0.0  zezvty.com
@@ -85929,11 +85902,13 @@
 0.0.0.0  zgktxx.com
 0.0.0.0  zgmwrjlxpb.com
 0.0.0.0  zgody.infor.pl
+0.0.0.0  zgrsq.cn
 0.0.0.0  zgsdk.zhugeio.com
 0.0.0.0  zgsxhx.com
 0.0.0.0  zgtcar.com
 0.0.0.0  zgunion.cn
 0.0.0.0  zgvvx.com
+0.0.0.0  zgwalconadziewczyna.eu
 0.0.0.0  zgwlbjy.cn
 0.0.0.0  zgxrht.com
 0.0.0.0  zgyemy.com
@@ -85993,7 +85968,6 @@
 0.0.0.0  zhizones.com
 0.0.0.0  zhjfad.com
 0.0.0.0  zhkbjqtstd.com
-0.0.0.0  zhkquyvfndeker.com
 0.0.0.0  zhkzt.com
 0.0.0.0  zhlala.com
 0.0.0.0  zhlrcaahpuqh.com
@@ -86041,6 +86015,7 @@
 0.0.0.0  zidedge.com
 0.0.0.0  zidtqsrzosud.com
 0.0.0.0  zielonewariacje.pl
+0.0.0.0  zielony-bazarek.pl
 0.0.0.0  zieltracker.de
 0.0.0.0  ziffdavis-d.openx.net
 0.0.0.0  ziffdavis.com
@@ -86052,7 +86027,6 @@
 0.0.0.0  ziffdavisglobal.112.2o7.net
 0.0.0.0  ziffdavispennyarcade.112.2o7.net
 0.0.0.0  zifjgjddpy.com
-0.0.0.0  ziig.com.cn
 0.0.0.0  zijaipse.com
 0.0.0.0  zim-zim-zam.com
 0.0.0.0  zimowewyzwanie.pl
@@ -86380,7 +86354,6 @@
 0.0.0.0  zumodi.com
 0.0.0.0  zunmi.cn
 0.0.0.0  zunsoach.com
-0.0.0.0  zunss.com
 0.0.0.0  zuopp.com
 0.0.0.0  zuowen.hydcd.com
 0.0.0.0  zupaskarbow.pl
@@ -86437,6 +86410,7 @@
 0.0.0.0  zxhymh.com
 0.0.0.0  zxin131.cn
 0.0.0.0  zxjjzx.com
+0.0.0.0  zxl.qzbxfs.com
 0.0.0.0  zxlmnet.com
 0.0.0.0  zxptw.cn
 0.0.0.0  zxpyzc.cn
