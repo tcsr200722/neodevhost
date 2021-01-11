@@ -8,7 +8,7 @@
 #
 # Last update: 2021-01-11
 #
-# Number of blocked domains:  115168
+# Number of blocked domains:  115169
 #
 #=====================================
 0.0.0.0  0.nextyourcontent.com
@@ -93799,6 +93799,7 @@
 0.0.0.0  vidseed.ru
 0.0.0.0  vidstat.taboola.com
 0.0.0.0  vidstatb.taboola.com
+0.0.0.0  vidto.me
 0.0.0.0  vidto.se
 0.0.0.0  vidtod.me
 0.0.0.0  vidtodo.pro
