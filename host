@@ -8,7 +8,7 @@
 #
 # Last update: 2021-01-28
 #
-# Number of blocked domains:  117035
+# Number of blocked domains:  117034
 #
 #=====================================
 0.0.0.0  0.nextyourcontent.com
@@ -5357,7 +5357,6 @@
 0.0.0.0  ad.dlbooks.to
 0.0.0.0  ad.dmm.com
 0.0.0.0  ad.dnoticias.pt
-0.0.0.0  ad.docer.wps.cn
 0.0.0.0  ad.doganburda.com
 0.0.0.0  ad.dokrmob.com
 0.0.0.0  ad.domainfactory.de
@@ -17580,7 +17579,6 @@
 0.0.0.0  banner2.casino.com
 0.0.0.0  banner2.inet-traffic.com
 0.0.0.0  banner2.isobarturkiye.net
-0.0.0.0  bannera.kingsoft-office-service.com
 0.0.0.0  bannerads.anytimenews.com
 0.0.0.0  bannerads.co.in
 0.0.0.0  bannerads.de
@@ -46197,6 +46195,7 @@
 0.0.0.0  ibza.romsenergy.com
 0.0.0.0  ic-live.com
 0.0.0.0  ic.aliyune.xyz
+0.0.0.0  ic.ksosoft.com
 0.0.0.0  ic.snssdk.com
 0.0.0.0  ic.tynt.com
 0.0.0.0  ic.wps.cn
@@ -69070,6 +69069,7 @@
 0.0.0.0  pcash.imlive.com
 0.0.0.0  pcash.wildmatch.com
 0.0.0.0  pcauto.irs01.com
+0.0.0.0  pcbrowser.dd.qq.com
 0.0.0.0  pcbutts1-therealtruth.blogspot.com
 0.0.0.0  pcbutts1.ourtoolbar.com
 0.0.0.0  pcbutts1.software.informer.com
@@ -73325,7 +73325,6 @@
 0.0.0.0  push.wandoujia.com
 0.0.0.0  push.wapx.cn
 0.0.0.0  push.world
-0.0.0.0  push.wps.cn
 0.0.0.0  push.xdrig.com
 0.0.0.0  push.yoads.net
 0.0.0.0  push.yuedu.163.com
