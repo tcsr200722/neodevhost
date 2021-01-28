@@ -8,7 +8,7 @@
 #
 # Last update: 2021-01-28
 #
-# Number of blocked domains:  117036
+# Number of blocked domains:  117035
 #
 #=====================================
 0.0.0.0  0.nextyourcontent.com
@@ -5357,6 +5357,7 @@
 0.0.0.0  ad.dlbooks.to
 0.0.0.0  ad.dmm.com
 0.0.0.0  ad.dnoticias.pt
+0.0.0.0  ad.docer.wps.cn
 0.0.0.0  ad.doganburda.com
 0.0.0.0  ad.dokrmob.com
 0.0.0.0  ad.domainfactory.de
@@ -17579,6 +17580,7 @@
 0.0.0.0  banner2.casino.com
 0.0.0.0  banner2.inet-traffic.com
 0.0.0.0  banner2.isobarturkiye.net
+0.0.0.0  bannera.kingsoft-office-service.com
 0.0.0.0  bannerads.anytimenews.com
 0.0.0.0  bannerads.co.in
 0.0.0.0  bannerads.de
@@ -47153,7 +47155,6 @@
 0.0.0.0  img.gadhx.cn
 0.0.0.0  img.gaore.com
 0.0.0.0  img.gop1.co
-0.0.0.0  img.gou.wpscdn.cn
 0.0.0.0  img.gz9d.com
 0.0.0.0  img.gzhuibei.com
 0.0.0.0  img.hai61.com
@@ -69040,7 +69041,6 @@
 0.0.0.0  pc.quansj.cn
 0.0.0.0  pc.sborscweuu.cn
 0.0.0.0  pc.tunnel-vision.info
-0.0.0.0  pc.uf.ksosoft.com
 0.0.0.0  pc.videoclick.baidu.com
 0.0.0.0  pc.weizhenwx.com
 0.0.0.0  pc.yingshi.tcclick.1kxun.mobi
@@ -73325,6 +73325,7 @@
 0.0.0.0  push.wandoujia.com
 0.0.0.0  push.wapx.cn
 0.0.0.0  push.world
+0.0.0.0  push.wps.cn
 0.0.0.0  push.xdrig.com
 0.0.0.0  push.yoads.net
 0.0.0.0  push.yuedu.163.com
@@ -74917,7 +74918,6 @@
 0.0.0.0  ratilis.com
 0.0.0.0  rating-widget.com
 0.0.0.0  rating.in
-0.0.0.0  rating6.kingsoft-office-service.com
 0.0.0.0  ratings.lycos.com
 0.0.0.0  ratingtoplist.com
 0.0.0.0  ratioboom.ru
@@ -93208,7 +93208,6 @@
 0.0.0.0  up.hiao.com
 0.0.0.0  up.nytimes.com
 0.0.0.0  up.qingdaonews.com
-0.0.0.0  up.wps.kingsoft.com
 0.0.0.0  up.youzu.com
 0.0.0.0  up1.tj.u2.ucweb.com
 0.0.0.0  up4.ucweb.com
