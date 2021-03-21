@@ -8,7 +8,7 @@
 #
 # Last update: 2021-03-21
 #
-# Number of blocked domains:  93765
+# Number of blocked domains:  93769
 #
 #=====================================
 0.0.0.0  0.1mono.biz
@@ -83,7 +83,6 @@
 0.0.0.0  007angels.com
 0.0.0.0  008.0x1f4b0.com
 0.0.0.0  008.free-counter.co.uk
-0.0.0.0  008.free-counters.co.uk
 0.0.0.0  0082tv.net
 0.0.0.0  00880808.com
 0.0.0.0  008844.cc
@@ -116,12 +115,12 @@
 0.0.0.0  01mspmd5yalky8.com
 0.0.0.0  0202.com.tw
 0.0.0.0  020wujin.cn
-0.0.0.0  0217qpineuxbcdhopswkvf.xyz
 0.0.0.0  0224fqpowiuxybnmvdfghj.xyz
 0.0.0.0  022aifang.com
 0.0.0.0  023hysj.com
 0.0.0.0  025suyu.com
 0.0.0.0  027whht.com
+0.0.0.0  028yhtz.com
 0.0.0.0  02aa19117f396e9.com
 0.0.0.0  02b5da94a2bd4aea.com
 0.0.0.0  0302woeuxcbrnxcvsdfghu.xyz
@@ -159,6 +158,7 @@
 0.0.0.0  0532a9.r.axf8.net
 0.0.0.0  0532ci.com.cn
 0.0.0.0  0551huayanbdf.com
+0.0.0.0  0551zgz.com
 0.0.0.0  0571hy.com
 0.0.0.0  0577renliu.net.cn
 0.0.0.0  0591101.com
@@ -241,6 +241,7 @@
 0.0.0.0  0koryu0.easter.ne.jp
 0.0.0.0  0latfee.ero-advertising.com
 0.0.0.0  0lovespells0.blogspot.com
+0.0.0.0  0lx.group
 0.0.0.0  0m4.ru
 0.0.0.0  0mr.cc
 0.0.0.0  0n-line.tv
@@ -336,6 +337,7 @@
 0.0.0.0  1.load28.biz
 0.0.0.0  1.load8.biz
 0.0.0.0  1.lvshi567.com
+0.0.0.0  1.mgff.com
 0.0.0.0  1.mm100.com
 0.0.0.0  1.modzj.net
 0.0.0.0  1.mol11.biz
@@ -612,6 +614,7 @@
 0.0.0.0  1353.api.swrve.com
 0.0.0.0  1353.content.swrve.com
 0.0.0.0  1357902.cn
+0.0.0.0  1360.cn
 0.0.0.0  1360.com.cn
 0.0.0.0  137-74-148-87.cprapid.com
 0.0.0.0  138lm.com
@@ -1058,7 +1061,6 @@
 0.0.0.0  21c9a53484951.com
 0.0.0.0  21find.com
 0.0.0.0  21jewelry.com
-0.0.0.0  21kk.cc
 0.0.0.0  21mob.com
 0.0.0.0  21robo.com
 0.0.0.0  21sexturycash.com
@@ -1135,7 +1137,6 @@
 0.0.0.0  24counter.com
 0.0.0.0  24fakty.pl
 0.0.0.0  24forum.pl
-0.0.0.0  24gazeta.eu
 0.0.0.0  24gwaltfakt.eu
 0.0.0.0  24h-ad.24hstatic.com
 0.0.0.0  24h-ipad-ad.24hstatic.com
@@ -1252,6 +1253,7 @@
 0.0.0.0  2cnjuh34jbpoint.com
 0.0.0.0  2cnjuh34jbstar.com
 0.0.0.0  2cnt.net
+0.0.0.0  2d-c.cn
 0.0.0.0  2d7bd9e6eb370143.com
 0.0.0.0  2daytrendingnews.com
 0.0.0.0  2dbd87c7a091b.com
@@ -1316,7 +1318,6 @@
 0.0.0.0  2performant.com
 0.0.0.0  2pmob.com
 0.0.0.0  2ptxxjjzpy.com
-0.0.0.0  2pxg8bcf.top
 0.0.0.0  2q5p.cn
 0.0.0.0  2remove.guide
 0.0.0.0  2s11.com
@@ -1504,7 +1505,6 @@
 0.0.0.0  33b.b33r.net
 0.0.0.0  33universal.adprimemedia.com
 0.0.0.0  34.gs
-0.0.0.0  3400.org
 0.0.0.0  340ca72733c9e46fb1.com
 0.0.0.0  341073be6e9db7d2.com
 0.0.0.0  3415.hittail.com
@@ -1538,15 +1538,17 @@
 0.0.0.0  360ads.com
 0.0.0.0  360adshost.com
 0.0.0.0  360adshost.net
+0.0.0.0  360anquantou.cn
 0.0.0.0  360app.cn
+0.0.0.0  360cc.cn
 0.0.0.0  360cdn.cn
-0.0.0.0  360cluster.cn
 0.0.0.0  360doo.com
 0.0.0.0  360down7.miiyun.cn
 0.0.0.0  360facai.cn
 0.0.0.0  360fenxi.mediav.com
 0.0.0.0  360glb.cn
 0.0.0.0  360gtm.cn
+0.0.0.0  360h5plus.cn
 0.0.0.0  360i.com
 0.0.0.0  360in.com
 0.0.0.0  360installer.com
@@ -1554,6 +1556,7 @@
 0.0.0.0  360kan.com.cn
 0.0.0.0  360popads.com
 0.0.0.0  360protected.com
+0.0.0.0  360qike.cn
 0.0.0.0  360qike.com.cn
 0.0.0.0  360shopping.com.cn
 0.0.0.0  360tag.com
@@ -1722,7 +1725,6 @@
 0.0.0.0  3t7p.cn
 0.0.0.0  3ue2j83u33.monster
 0.0.0.0  3vig.com
-0.0.0.0  3vlm.com
 0.0.0.0  3w.nuggad.net
 0.0.0.0  3w24.com
 0.0.0.0  3w2k701z6i94wgr.choobin-co.ir
@@ -1733,6 +1735,7 @@
 0.0.0.0  3wtuan.com
 0.0.0.0  3xit.net
 0.0.0.0  3xtraffic.com
+0.0.0.0  3xx.vip
 0.0.0.0  3y0h.cn
 0.0.0.0  3y6c.cn
 0.0.0.0  3yai2u.cn
@@ -1894,6 +1897,7 @@
 0.0.0.0  4761.api.swrve.com
 0.0.0.0  4768.api.swrve.com
 0.0.0.0  4768.content.swrve.com
+0.0.0.0  47api.cn
 0.0.0.0  47b63cbfb34a0.com
 0.0.0.0  47e224be59415ec068b94bca857581bd7dde7fb6.cws.conviva.com
 0.0.0.0  47f624b2e6c6072e.com
@@ -2153,7 +2157,6 @@
 0.0.0.0  5269120.com
 0.0.0.0  526d.com
 0.0.0.0  526d.uunice.com
-0.0.0.0  526dimg.uunice.com
 0.0.0.0  5293.com
 0.0.0.0  529collegesaving.com
 0.0.0.0  52aan.cn
@@ -2236,6 +2239,7 @@
 0.0.0.0  58b291f917728a2.com
 0.0.0.0  58f7c1ff30eb.com
 0.0.0.0  58isg.cn
+0.0.0.0  58lm.vip
 0.0.0.0  58mingri.cn
 0.0.0.0  58mingtian.cn
 0.0.0.0  58taopinhui.com
@@ -2282,6 +2286,7 @@
 0.0.0.0  5forex.ru
 0.0.0.0  5fst22.cn
 0.0.0.0  5gb-internetu-pakiety.blogspot.com
+0.0.0.0  5gl1x9qc.com
 0.0.0.0  5glyqw.com
 0.0.0.0  5gsb4ospxp.monster
 0.0.0.0  5i2.net
@@ -2459,6 +2464,7 @@
 0.0.0.0  668559.com
 0.0.0.0  6696.eu-api.swrve.com
 0.0.0.0  6696.eu-content.swrve.com
+0.0.0.0  66996.top
 0.0.0.0  66av.cc
 0.0.0.0  66ce98158e4f402.com
 0.0.0.0  66cn.com
@@ -2610,7 +2616,6 @@
 0.0.0.0  7017042b83a65ea.com
 0.0.0.0  703531862.vws.vegacdn.vn
 0.0.0.0  70950.com
-0.0.0.0  70bhsd.cn
 0.0.0.0  70e.com
 0.0.0.0  70ee6484605f.com
 0.0.0.0  70lm.com
@@ -2696,10 +2701,10 @@
 0.0.0.0  777seo.com
 0.0.0.0  778669.com
 0.0.0.0  778771.com
+0.0.0.0  7791.com.cn
 0.0.0.0  7794.com
 0.0.0.0  77d0f28ca582231.com
 0.0.0.0  77f24529d8427410.com
-0.0.0.0  77kb.qucaigg.com
 0.0.0.0  77power.com
 0.0.0.0  77search.com
 0.0.0.0  77sky.de
@@ -2742,7 +2747,6 @@
 0.0.0.0  7bwan.com
 0.0.0.0  7c1e55606540.com
 0.0.0.0  7car.com.cn
-0.0.0.0  7cbwus.cn
 0.0.0.0  7clink.com
 0.0.0.0  7cx.com
 0.0.0.0  7cxcrejm.com
@@ -2874,6 +2878,7 @@
 0.0.0.0  8000plus.si
 0.0.0.0  8008.engine.mobileapptracking.com
 0.0.0.0  800d24d61daea3c.com
+0.0.0.0  801.tianya.cn
 0.0.0.0  801.tianyaui.com
 0.0.0.0  8020home.com.cn
 0.0.0.0  8020solutions.net
@@ -3046,6 +3051,7 @@
 0.0.0.0  8nc8shot.txxx.com
 0.0.0.0  8ox.cn
 0.0.0.0  8po6fdwjsym3.com
+0.0.0.0  8q2g560ynxlkz9rm.in.net
 0.0.0.0  8rf.com
 0.0.0.0  8s32e590un.com
 0.0.0.0  8s8.eu
@@ -3186,12 +3192,10 @@
 0.0.0.0  9453hot.com
 0.0.0.0  94ab.com
 0.0.0.0  94cdn.com
-0.0.0.0  94dayu.com
 0.0.0.0  94dwc.com
 0.0.0.0  94lm.com
 0.0.0.0  94nw.com
 0.0.0.0  94vs.adj.st
-0.0.0.0  9519.net
 0.0.0.0  9547.hittail.com
 0.0.0.0  95558000.com
 0.0.0.0  9563.hittail.com
@@ -3375,7 +3379,6 @@
 0.0.0.0  a.90370.com
 0.0.0.0  a.91nets.cn
 0.0.0.0  a.91zhongkao.com
-0.0.0.0  a.abnad.net
 0.0.0.0  a.ad.gt
 0.0.0.0  a.ad.playstation.net
 0.0.0.0  a.ad7.com
@@ -3444,7 +3447,6 @@
 0.0.0.0  a.dtprofit.com
 0.0.0.0  a.dxzy163.com
 0.0.0.0  a.dyjqd.com
-0.0.0.0  a.dynad.net
 0.0.0.0  a.ecook.cn
 0.0.0.0  a.elodm.com
 0.0.0.0  a.environmentaldefense.org
@@ -3584,6 +3586,7 @@
 0.0.0.0  a.twiago.com
 0.0.0.0  a.tyncar.com
 0.0.0.0  a.typin.cn
+0.0.0.0  a.ucoz.net
 0.0.0.0  a.ucoz.ru
 0.0.0.0  a.umilu.com
 0.0.0.0  a.union.mi.com
@@ -3758,9 +3761,9 @@
 0.0.0.0  a1.firefoxchina.cn
 0.0.0.0  a1.firstgw.com
 0.0.0.0  a1.goo.ne.jp
+0.0.0.0  a1.huiqituan.com
 0.0.0.0  a1.img.static.youmi.net
 0.0.0.0  a1.itc.cn
-0.0.0.0  a1.lmaq.cn
 0.0.0.0  a1.lshou.com
 0.0.0.0  a1.mingyihui.net
 0.0.0.0  a1.openxt.cn
@@ -3867,7 +3870,6 @@
 0.0.0.0  a2dfp.net
 0.0.0.0  a2f52ef3b52.top
 0.0.0.0  a2gw.com
-0.0.0.0  a2m.cn
 0.0.0.0  a2multimedia.pl
 0.0.0.0  a2plvcpnl308307.prod.iad2.secureserver.net
 0.0.0.0  a2pub.com
@@ -3919,6 +3921,7 @@
 0.0.0.0  a4g.com
 0.0.0.0  a4mt150303tl.com
 0.0.0.0  a4p.adpartner.pro
+0.0.0.0  a5.codejumps.com
 0.0.0.0  a5.overclockers.ua
 0.0.0.0  a50.g2.akamai.net
 0.0.0.0  a5020fec1701e9f3.com
@@ -3929,7 +3932,6 @@
 0.0.0.0  a5677cf.holoiv.com
 0.0.0.0  a5a5a.com
 0.0.0.0  a5e04df959f1af34.com
-0.0.0.0  a6.codejumps.com
 0.0.0.0  a63t9o1azf.com
 0.0.0.0  a6529002483.cdn.optimizely.com
 0.0.0.0  a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
@@ -4097,6 +4099,7 @@
 0.0.0.0  aazcio.cn
 0.0.0.0  ab-mknodepub.marketo.com
 0.0.0.0  ab.5.p2l.info
+0.0.0.0  ab.adpro.com.ua
 0.0.0.0  ab.adrecreate.com
 0.0.0.0  ab.advertiserurl.com
 0.0.0.0  ab.airpush.com
@@ -4152,7 +4155,6 @@
 0.0.0.0  abc.hkepc.com
 0.0.0.0  abc.hkepc.net
 0.0.0.0  abc.logly.co.jp
-0.0.0.0  abc.pema.cl
 0.0.0.0  abc.prawo.link
 0.0.0.0  abc.rwpt.top
 0.0.0.0  abc.yjbys.com
@@ -4208,6 +4210,7 @@
 0.0.0.0  abie17.top
 0.0.0.0  abie18.top
 0.0.0.0  abie25.top
+0.0.0.0  abie9.top
 0.0.0.0  abissnet.net
 0.0.0.0  abkdae.namshi.com
 0.0.0.0  able2know.us.intellitxt.com
@@ -4347,7 +4350,6 @@
 0.0.0.0  ac9d98.r.axf8.net
 0.0.0.0  acacdn.com
 0.0.0.0  academand.com
-0.0.0.0  academy-internet.net
 0.0.0.0  academyshademani.com
 0.0.0.0  acadiannaturecruises.mobi
 0.0.0.0  acads.net
@@ -4474,6 +4476,7 @@
 0.0.0.0  acloudvideos.com
 0.0.0.0  aclu.tt.omtrdc.net
 0.0.0.0  acme.tango.me
+0.0.0.0  acmetex.ru
 0.0.0.0  acmexxx.com
 0.0.0.0  acmmarketingdigital.com.br
 0.0.0.0  acmsa.com.ar
@@ -4560,7 +4563,6 @@
 0.0.0.0  active-re.com
 0.0.0.0  active-tracking.de
 0.0.0.0  active-trk7.com
-0.0.0.0  active.baofeng.com
 0.0.0.0  active.hit.stat24.com
 0.0.0.0  active.iperceptions.com
 0.0.0.0  active24stats.nl
@@ -4820,6 +4822,7 @@
 0.0.0.0  ad.arklm.com
 0.0.0.0  ad.as.amanad.adtdp.com
 0.0.0.0  ad.asntown.net
+0.0.0.0  ad.aspm.jp
 0.0.0.0  ad.at.doubleclick.net
 0.0.0.0  ad.atdmt.com
 0.0.0.0  ad.au.doubleclick.net
@@ -4980,7 +4983,6 @@
 0.0.0.0  ad.hutor.ru
 0.0.0.0  ad.hyena.cz
 0.0.0.0  ad.i2idata.com
-0.0.0.0  ad.icheck.com.vn
 0.0.0.0  ad.iconadserver.com
 0.0.0.0  ad.ie.doubleclick.net
 0.0.0.0  ad.iinfo.cz
@@ -5072,6 +5074,7 @@
 0.0.0.0  ad.musicmatch.com
 0.0.0.0  ad.muyang888.top
 0.0.0.0  ad.my.doubleclick.net
+0.0.0.0  ad.myapple.pl
 0.0.0.0  ad.myinstashot.com
 0.0.0.0  ad.mynetreklam.com.streamprovider.net
 0.0.0.0  ad.n2434.doubleclick.net
@@ -5236,6 +5239,7 @@
 0.0.0.0  ad.winrar.com.cn
 0.0.0.0  ad.wretch.cc
 0.0.0.0  ad.wsod.com
+0.0.0.0  ad.wurangxian.top
 0.0.0.0  ad.wynk.in
 0.0.0.0  ad.wz.cz
 0.0.0.0  ad.xdomain.ne.jp
@@ -5462,7 +5466,6 @@
 0.0.0.0  ad4.api.ero-advertising.com
 0.0.0.0  ad4.bannerbank.ru
 0.0.0.0  ad4.banners.ero-advertising.com
-0.0.0.0  ad4.bigmir.net
 0.0.0.0  ad4.candy-network.com
 0.0.0.0  ad4.checkm8.com
 0.0.0.0  ad4.com.cn
@@ -5510,7 +5513,6 @@
 0.0.0.0  ad5.adspaces.ero-advertising.com
 0.0.0.0  ad5.bannerbank.ru
 0.0.0.0  ad5.banners.ero-advertising.com
-0.0.0.0  ad5.bigmir.net
 0.0.0.0  ad5.checkm8.com
 0.0.0.0  ad5.contentabc.com
 0.0.0.0  ad5.fpa.ero-advertising.com
@@ -5523,6 +5525,7 @@
 0.0.0.0  ad6.adspaces.ero-advertising.com
 0.0.0.0  ad6.bannerbank.ru
 0.0.0.0  ad6.banners.ero-advertising.com
+0.0.0.0  ad6.bigmir.net
 0.0.0.0  ad6.checkm8.com
 0.0.0.0  ad6.contentabc.com
 0.0.0.0  ad6.speedbit.com
@@ -5665,6 +5668,7 @@
 0.0.0.0  adbn.masterinvest.info
 0.0.0.0  adbn.ru
 0.0.0.0  adbomb.ru
+0.0.0.0  adboost.com
 0.0.0.0  adboost.finalid.com
 0.0.0.0  adboost.it
 0.0.0.0  adbooth.adk2.co
@@ -5837,6 +5841,7 @@
 0.0.0.0  addata.ku6.com
 0.0.0.0  addata.mediacategory.com
 0.0.0.0  addays.pl
+0.0.0.0  addclips.org
 0.0.0.0  adddpc01.ru
 0.0.0.0  adddyy.com
 0.0.0.0  addefend.com
@@ -5931,6 +5936,7 @@
 0.0.0.0  adexprt.me
 0.0.0.0  adexprts.com
 0.0.0.0  adext.inkclub.com
+0.0.0.0  adextent.com
 0.0.0.0  adextrem.com
 0.0.0.0  adf.acrosspf.com
 0.0.0.0  adf.dahe.cn
@@ -6005,7 +6011,6 @@
 0.0.0.0  adgila.com
 0.0.0.0  adgitize.com
 0.0.0.0  adgjl13.com
-0.0.0.0  adglare.net
 0.0.0.0  adglare.org
 0.0.0.0  adglaze.com
 0.0.0.0  adgoi.com
@@ -6047,6 +6052,7 @@
 0.0.0.0  adhub.ru
 0.0.0.0  adhunter.media
 0.0.0.0  adi.admicro.vn
+0.0.0.0  adi.bigmir.net
 0.0.0.0  adi.cnool.net
 0.0.0.0  adi.tuiiu.com
 0.0.0.0  adi2007.cnool.net
@@ -6128,7 +6134,6 @@
 0.0.0.0  adipex.24sws.ws
 0.0.0.0  adipex.3.p2l.info
 0.0.0.0  adipex.4.p2l.info
-0.0.0.0  adipex.hut1.ru
 0.0.0.0  adipex.shengen.ru
 0.0.0.0  adipex.t-amo.net
 0.0.0.0  adipexp.3xforum.ro
@@ -6255,7 +6260,6 @@
 0.0.0.0  adm-cdn.vrtzads.com
 0.0.0.0  adm-vids.info
 0.0.0.0  adm.10jqka.com.cn
-0.0.0.0  adm.265g.com
 0.0.0.0  adm.52swine.com
 0.0.0.0  adm.6park.com
 0.0.0.0  adm.71100.net
@@ -6321,6 +6325,7 @@
 0.0.0.0  admatrix.jp
 0.0.0.0  admax.nexage.com
 0.0.0.0  admaxim.com
+0.0.0.0  admaya.in
 0.0.0.0  admaza.in
 0.0.0.0  admd.housefun.com.tw
 0.0.0.0  admd.yam.com
@@ -6654,7 +6659,6 @@
 0.0.0.0  adpro.cn
 0.0.0.0  adpro.com.ua
 0.0.0.0  adpro.futurenet.club
-0.0.0.0  adpro.pro.cn
 0.0.0.0  adprofits.ru
 0.0.0.0  adprofy.com
 0.0.0.0  adpron.com
@@ -6670,7 +6674,6 @@
 0.0.0.0  adpublisher.s3.amazonaws.com
 0.0.0.0  adpubs.yaolan.com
 0.0.0.0  adpulse.ads.targetnet.com
-0.0.0.0  adpush.cn
 0.0.0.0  adpush.goforandroid.com
 0.0.0.0  adpushsdk.goforandroid.com
 0.0.0.0  adpushup-d.openx.net
@@ -7158,6 +7161,7 @@
 0.0.0.0  ads.eccentrix.com
 0.0.0.0  ads.ecircles.com
 0.0.0.0  ads.economist.com
+0.0.0.0  ads.edbindex.dk
 0.0.0.0  ads.egrana.com.br
 0.0.0.0  ads.ehealthcaresolutions.com
 0.0.0.0  ads.einmedia.com
