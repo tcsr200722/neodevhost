@@ -13,13 +13,13 @@
 ```
 Total ad / tracking block list 屏蔽追踪广告总数: 125297
 
-Total allowlist list 允许名单总数: 1239
+Total allowlist list 允许名单总数: 1240
 
-Total combine list 结合总数： 125155
+Total combine list 结合总数： 125153
 
 Total deadblock list 失效屏蔽广告域名： 31535
 
-Total deadallow list 失效允许广告域名： 103
+Total deadallow list 失效允许广告域名： 102
 
 Update 更新时间: 2021-03-28
 ```
@@ -50,7 +50,7 @@ Update 更新时间: 2021-03-28
 
 ## Download 下载
 ### Full version (With Dead Domain inside) 完整版（包含过期域名）：
-Number of Domain 域名数目： 125155
+Number of Domain 域名数目： 125153
 
 Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
 --------- |:-------------:|:-------------:|:-------------:
