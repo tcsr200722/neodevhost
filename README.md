@@ -11,11 +11,11 @@
 [![license](https://img.shields.io/github/license/neodevpro/neodevhost.svg)](https://github.com/neodevpro/neodevhost/blob/master/LICENSE)<br/>
 
 ```
-Total ad / tracking block list 屏蔽追踪广告总数: 121623
+Total ad / tracking block list 屏蔽追踪广告总数: 125297
 
 Total allowlist list 允许名单总数: 1239
 
-Total combine list 结合总数： 121497
+Total combine list 结合总数： 125155
 
 Total deadblock list 失效屏蔽广告域名： 31728
 
@@ -50,7 +50,7 @@ Update 更新时间: 2021-03-28
 
 ## Download 下载
 ### Full version (With Dead Domain inside) 完整版（包含过期域名）：
-Number of Domain 域名数目： 121497
+Number of Domain 域名数目： 125155
 
 Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
 --------- |:-------------:|:-------------:|:-------------:
@@ -60,7 +60,7 @@ Dnsmasq | Dns ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost
 
 ### Lite version (Without Dead Domain inside) 精简版（不包含过期域名）：
 
-Number of Domain 域名数目： 91348
+Number of Domain 域名数目： 93430
 
 Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
 --------- |:-------------:|:-------------:|:-------------:
@@ -118,9 +118,7 @@ AD-hostss | Link
 Adguard | [link](https://github.com/AdguardTeam/AdGuardSDNSFilter)
 Ad-wars | [link](https://github.com/jdlingyu/ad-wars)
 Anti-ad | [link](https://github.com/privacy-protection-tools/anti-AD)
-Neohosts | [link](https://github.com/neoFelhz/neohosts)
 StevenBlack | [link](https://github.com/StevenBlack/hosts)
-Yhosts | [link](https://github.com/VeleSila/yhosts)
 
 ## Sources of Allowlist 允许名单
 Allowlist | Link  
