@@ -8,7 +8,7 @@
 #
 # Last update: 2021-04-01
 #
-# Number of blocked domains:  98419
+# Number of blocked domains:  98422
 #
 #=====================================
 0.0.0.0  0.1mono.biz
@@ -14705,7 +14705,6 @@
 0.0.0.0  banner1.pornhost.com
 0.0.0.0  banner10.zetasystem.dk
 0.0.0.0  banner2.casino.com
-0.0.0.0  bannera.kingsoft-office-service.com
 0.0.0.0  bannerads.de
 0.0.0.0  bannerbank.ru
 0.0.0.0  bannerboo.com
@@ -20142,6 +20141,7 @@
 0.0.0.0  choengmon-beach.com
 0.0.0.0  chofezrj.com
 0.0.0.0  chograud.com
+0.0.0.0  choice.microsoft.com
 0.0.0.0  choice.microsoft.com.nsatc.net
 0.0.0.0  choicedealz.com
 0.0.0.0  choices.trustarc.com
@@ -39009,6 +39009,7 @@
 0.0.0.0  i0s26ol9.com
 0.0.0.0  i1.dl-ad.com
 0.0.0.0  i1.go2yd.com
+0.0.0.0  i1.services.social.microsoft.com
 0.0.0.0  i1.teaser-goods.ru
 0.0.0.0  i151125.infourl.net
 0.0.0.0  i16-tb.isnssdk.com
@@ -62691,6 +62692,7 @@
 0.0.0.0  ratilis.com
 0.0.0.0  rating-widget.com
 0.0.0.0  rating.in
+0.0.0.0  rating6.kingsoft-office-service.com
 0.0.0.0  ratings.lycos.com
 0.0.0.0  ratingtoplist.com
 0.0.0.0  ratkalol.com
@@ -73478,6 +73480,7 @@
 0.0.0.0  statserv.net
 0.0.0.0  statsevent.com
 0.0.0.0  statsf.tubemogul.com
+0.0.0.0  statsfe1.ws.microsoft.com
 0.0.0.0  statsforads.com
 0.0.0.0  statsforever.com
 0.0.0.0  statsie.com
