@@ -8,7 +8,7 @@
 #
 # Last update: 2021-04-06
 #
-# Number of blocked domains:  97619
+# Number of blocked domains:  97617
 #
 #=====================================
 0.0.0.0  0.1mono.biz
@@ -20990,7 +20990,6 @@
 0.0.0.0  cloudsdestruction.com
 0.0.0.0  cloudserver098095.home.pl
 0.0.0.0  cloudservice14.kingsoft-office-service.com
-0.0.0.0  cloudservice22.kingsoft-office-service.com
 0.0.0.0  cloudservice24.kingsoft-office-service.com
 0.0.0.0  cloudservice27.kingsoft-office-service.com
 0.0.0.0  cloudtokenwallet.com
@@ -58173,7 +58172,6 @@
 0.0.0.0  pic.dotmore.com.tw
 0.0.0.0  pic.ea3w.com
 0.0.0.0  pic.fastapi.net
-0.0.0.0  pic.iask.cn
 0.0.0.0  pic.jd-bbs.com
 0.0.0.0  pic.jdbbs.com
 0.0.0.0  pic.jdunion.com
