@@ -8,7 +8,7 @@
 #
 # Last update: 2021-05-21
 #
-# Number of blocked domains:  128047
+# Number of blocked domains:  128046
 #
 #=====================================
 0.0.0.0  0.1mono.biz
@@ -38265,7 +38265,6 @@
 0.0.0.0  events.cid.samba.tv
 0.0.0.0  events.claspws.tv
 0.0.0.0  events.constellation.com
-0.0.0.0  events.data.microsoft.com
 0.0.0.0  events.demand.intelsecurity.com
 0.0.0.0  events.demoup.com
 0.0.0.0  events.emogi.com
