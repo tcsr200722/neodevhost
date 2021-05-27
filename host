@@ -8,7 +8,7 @@
 #
 # Last update: 2021-05-27
 #
-# Number of blocked domains:  130632
+# Number of blocked domains:  130631
 #
 #=====================================
 0.0.0.0  0.1mono.biz
@@ -15706,7 +15706,6 @@
 0.0.0.0  api2.analysys.cn
 0.0.0.0  api2.appsflyer.com
 0.0.0.0  api2.batmobi.net
-0.0.0.0  api2.branch.io
 0.0.0.0  api2.e.kuaishou.com
 0.0.0.0  api2.murdoog.com
 0.0.0.0  api2.okanjo.com
